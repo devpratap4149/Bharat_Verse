@@ -1,0 +1,366 @@
+/* =================================
+   ARTISAN DETAILS PAGE
+================================= */
+
+.artisan-details-page {
+  min-height: 100vh;
+  background: #0b0b0b;
+  color: white;
+}
+
+
+/* =================================
+   HERO
+================================= */
+
+.artisan-details-hero {
+  position: relative;
+
+  min-height: 72vh;
+
+  background-size: cover;
+  background-position: center 35%;
+
+  display: flex;
+  align-items: flex-end;
+
+  overflow: hidden;
+}
+
+.artisan-details-overlay {
+  position: absolute;
+  inset: 0;
+
+  background:
+    linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.92) 0%,
+      rgba(0, 0, 0, 0.55) 45%,
+      rgba(0, 0, 0, 0.15) 100%
+    );
+}
+
+.artisan-details-hero-content {
+  position: relative;
+  z-index: 2;
+
+  width: 100%;
+  max-width: 1200px;
+
+  margin: 0 auto;
+
+  padding: 0 7% 70px;
+}
+
+
+/* Back button */
+
+.back-artisans {
+  display: inline-block;
+
+  margin-bottom: 35px;
+
+  color: #ffffff;
+  text-decoration: none;
+
+  font-size: 14px;
+  font-weight: 600;
+
+  transition: 0.25s ease;
+}
+
+.back-artisans:hover {
+  color: #e99a32;
+}
+
+
+/* Craft */
+
+.artisan-details-craft {
+  margin: 0 0 12px;
+
+  color: #e99a32;
+
+  font-size: 13px;
+  font-weight: 700;
+
+  letter-spacing: 2px;
+  text-transform: uppercase;
+}
+
+
+/* Name */
+
+.artisan-details-hero h1 {
+  margin: 0;
+
+  font-size: clamp(48px, 7vw, 82px);
+
+  line-height: 1.05;
+
+  letter-spacing: -2px;
+}
+
+
+/* Location */
+
+.artisan-details-location {
+  margin-top: 18px;
+
+  color: #d0d0d0;
+
+  font-size: 17px;
+}
+
+
+/* =================================
+   CONTENT
+================================= */
+
+.artisan-details-content {
+  width: 100%;
+  max-width: 1100px;
+
+  margin: 0 auto;
+
+  padding: 80px 7% 100px;
+}
+
+
+/* =================================
+   INTRO
+================================= */
+
+.artisan-details-intro {
+  display: flex;
+
+  justify-content: space-between;
+  align-items: center;
+
+  gap: 40px;
+
+  padding-bottom: 55px;
+
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.artisan-details-intro span {
+  color: #e99a32;
+
+  font-size: 12px;
+  font-weight: 700;
+
+  letter-spacing: 2px;
+}
+
+.artisan-details-intro h2 {
+  margin: 12px 0 0;
+
+  max-width: 700px;
+
+  font-size: 34px;
+  line-height: 1.25;
+}
+
+
+/* Experience */
+
+.artisan-experience-box {
+  min-width: 150px;
+
+  padding: 22px;
+
+  text-align: center;
+
+  border: 1px solid rgba(233, 154, 50, 0.35);
+  border-radius: 14px;
+
+  background: rgba(233, 154, 50, 0.06);
+}
+
+.artisan-experience-box strong {
+  display: block;
+
+  color: #e99a32;
+
+  font-size: 24px;
+}
+
+.artisan-experience-box small {
+  display: block;
+
+  margin-top: 6px;
+
+  color: #aaa;
+
+  font-size: 13px;
+}
+
+
+/* =================================
+   STORY SECTIONS
+================================= */
+
+.artisan-story-section {
+  max-width: 850px;
+
+  padding: 70px 0 20px;
+}
+
+.section-label {
+  margin-bottom: 14px;
+
+  color: #e99a32;
+
+  font-size: 12px;
+  font-weight: 700;
+
+  letter-spacing: 2px;
+}
+
+.artisan-story-section h2 {
+  margin: 0 0 22px;
+
+  font-size: 38px;
+
+  line-height: 1.2;
+}
+
+.artisan-story-section > p:last-child {
+  color: #b5b5b5;
+
+  font-size: 18px;
+
+  line-height: 1.9;
+}
+
+
+/* =================================
+   CULTURAL SIGNIFICANCE
+================================= */
+
+.artisan-significance {
+  margin-top: 65px;
+
+  padding: 35px 40px;
+
+  border-left: 3px solid #e99a32;
+
+  background: rgba(255, 255, 255, 0.035);
+
+  border-radius: 0 12px 12px 0;
+}
+
+.artisan-significance p:last-child {
+  margin: 12px 0 0;
+
+  color: #d0d0d0;
+
+  font-size: 17px;
+
+  line-height: 1.8;
+}
+
+
+/* =================================
+   BOTTOM LINK
+================================= */
+
+.back-artisans-bottom {
+  display: inline-block;
+
+  margin-top: 70px;
+
+  color: #e99a32;
+
+  text-decoration: none;
+
+  font-size: 15px;
+  font-weight: 700;
+
+  transition: 0.25s ease;
+}
+
+.back-artisans-bottom:hover {
+  transform: translateX(-5px);
+}
+
+
+/* =================================
+   NOT FOUND
+================================= */
+
+.artisan-not-found {
+  min-height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+
+  gap: 20px;
+}
+
+.artisan-not-found h1 {
+  font-size: 40px;
+}
+
+.artisan-not-found a {
+  color: #e99a32;
+
+  text-decoration: none;
+}
+
+
+/* =================================
+   RESPONSIVE
+================================= */
+
+@media (max-width: 800px) {
+
+  .artisan-details-hero {
+    min-height: 65vh;
+  }
+
+  .artisan-details-hero-content {
+    padding-bottom: 50px;
+  }
+
+  .artisan-details-intro {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .artisan-experience-box {
+    width: 100%;
+    box-sizing: border-box;
+  }
+
+  .artisan-details-intro h2 {
+    font-size: 28px;
+  }
+
+  .artisan-story-section h2 {
+    font-size: 30px;
+  }
+
+  .artisan-story-section > p:last-child {
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 500px) {
+
+  .artisan-details-hero h1 {
+    font-size: 46px;
+  }
+
+  .artisan-details-content {
+    padding-top: 55px;
+  }
+
+  .artisan-significance {
+    padding: 25px;
+  }
+}

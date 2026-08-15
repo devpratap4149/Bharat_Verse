@@ -1,0 +1,2 @@
+model,records_used,train_records,test_records,MAE,R2,note
+RandomForestRegressor,145,116,29,0.487,0.977,"First prototype; target is the V2 transparent score, not a human-labeled ground-truth outcome."

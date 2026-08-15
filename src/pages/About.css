@@ -1,0 +1,511 @@
+/* =================================
+   ABOUT PAGE
+================================= */
+
+.about-page {
+  min-height: 100vh;
+  background: #0b0b0b;
+  color: white;
+  padding-top: 75px;
+}
+
+
+/* =================================
+   HERO
+================================= */
+
+.about-hero {
+  min-height: 68vh;
+
+  display: flex;
+  align-items: center;
+
+  background:
+    radial-gradient(
+      circle at 75% 40%,
+      rgba(233, 154, 50, 0.12),
+      transparent 35%
+    ),
+    #0b0b0b;
+}
+
+.about-hero-content {
+  width: 100%;
+  max-width: 1000px;
+
+  margin: 0 auto;
+
+  padding: 90px 7%;
+}
+
+.about-label {
+  margin: 0 0 20px;
+
+  color: #e99a32;
+
+  font-size: 12px;
+  font-weight: 700;
+
+  letter-spacing: 2px;
+}
+
+.about-hero h1 {
+  max-width: 900px;
+
+  margin: 0;
+
+  font-size: clamp(48px, 7vw, 82px);
+
+  line-height: 1.05;
+  letter-spacing: -3px;
+}
+
+.about-hero h1 span {
+  color: #e99a32;
+}
+
+.about-hero-content > p:last-child {
+  max-width: 720px;
+
+  margin-top: 30px;
+
+  color: #a5a5a5;
+
+  font-size: 18px;
+  line-height: 1.8;
+}
+
+
+/* =================================
+   VISION SECTION
+================================= */
+
+.about-section {
+  max-width: 1100px;
+
+  margin: 0 auto;
+
+  padding: 110px 7%;
+
+  display: grid;
+
+  grid-template-columns: 180px 1fr;
+
+  gap: 70px;
+
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.about-section-label {
+  color: #e99a32;
+
+  font-size: 12px;
+  font-weight: 700;
+
+  letter-spacing: 2px;
+}
+
+.about-section-content h2 {
+  max-width: 750px;
+
+  margin: 0 0 30px;
+
+  font-size: 45px;
+
+  line-height: 1.2;
+}
+
+.about-section-content h2 span {
+  color: #e99a32;
+}
+
+.about-section-content p {
+  max-width: 760px;
+
+  margin: 0 0 20px;
+
+  color: #9d9d9d;
+
+  font-size: 17px;
+
+  line-height: 1.9;
+}
+
+
+/* =================================
+   WHAT WE DO
+================================= */
+
+.about-features {
+  max-width: 1100px;
+
+  margin: 0 auto;
+
+  padding: 30px 7% 110px;
+
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 25px;
+}
+
+.about-feature {
+  padding: 35px 30px;
+
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 16px;
+
+  background: #111;
+
+  transition: 0.3s ease;
+}
+
+.about-feature:hover {
+  transform: translateY(-6px);
+
+  border-color: rgba(233, 154, 50, 0.35);
+
+  background: #141414;
+}
+
+.feature-number {
+  margin-bottom: 45px;
+
+  color: #e99a32;
+
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.about-feature h3 {
+  margin: 0 0 15px;
+
+  font-size: 23px;
+}
+
+.about-feature p {
+  margin: 0;
+
+  color: #888;
+
+  font-size: 15px;
+
+  line-height: 1.8;
+}
+
+
+/* =================================
+   BHARATVERSE EXPERIENCE
+================================= */
+
+.about-experience {
+  padding: 115px 7%;
+
+  border-top: 1px solid rgba(255, 255, 255, 0.06);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+
+  background:
+    radial-gradient(
+      circle at 85% 20%,
+      rgba(233, 154, 50, 0.08),
+      transparent 35%
+    ),
+    #0e0e0e;
+}
+
+.about-experience-heading {
+  max-width: 1100px;
+
+  margin: 0 auto 60px;
+}
+
+.about-experience-heading h2 {
+  max-width: 850px;
+
+  margin: 0 0 25px;
+
+  font-size: clamp(40px, 5vw, 62px);
+
+  line-height: 1.08;
+
+  letter-spacing: -2px;
+}
+
+.about-experience-heading h2 span {
+  color: #e99a32;
+}
+
+.about-experience-heading > p:last-child {
+  max-width: 700px;
+
+  margin: 0;
+
+  color: #999;
+
+  font-size: 17px;
+
+  line-height: 1.8;
+}
+
+
+/* =================================
+   EXPERIENCE GRID
+================================= */
+
+.experience-grid {
+  max-width: 1100px;
+
+  margin: 0 auto;
+
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 16px;
+}
+
+.experience-card {
+  min-height: 190px;
+
+  display: flex;
+
+  flex-direction: column;
+
+  padding: 30px;
+
+  border: 1px solid rgba(255, 255, 255, 0.07);
+  border-radius: 16px;
+
+  background: #131313;
+
+  transition: 0.3s ease;
+}
+
+.experience-card:hover {
+  transform: translateY(-5px);
+
+  border-color: rgba(233, 154, 50, 0.3);
+
+  background: #171717;
+}
+
+.experience-icon {
+  width: 48px;
+  height: 48px;
+
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  margin-bottom: 22px;
+
+  border: 1px solid rgba(233, 154, 50, 0.2);
+  border-radius: 12px;
+
+  background: rgba(233, 154, 50, 0.08);
+
+  color: #e99a32;
+
+  font-size: 21px;
+}
+
+.experience-card h3 {
+  margin: 0 0 10px;
+
+  font-size: 18px;
+}
+
+.experience-card p {
+  margin: 0;
+
+  color: #888;
+
+  font-size: 14px;
+
+  line-height: 1.7;
+}
+
+
+/* =================================
+   STORY
+================================= */
+
+.about-story {
+  padding: 120px 7%;
+
+  background:
+    linear-gradient(
+      135deg,
+      #111 0%,
+      #0b0b0b 65%
+    );
+
+  border-bottom: 1px solid rgba(255, 255, 255, 0.06);
+}
+
+.about-story-inner {
+  max-width: 900px;
+
+  margin: 0 auto;
+}
+
+.about-story h2 {
+  margin: 0 0 30px;
+
+  font-size: clamp(42px, 6vw, 65px);
+
+  line-height: 1.1;
+
+  letter-spacing: -2px;
+}
+
+.about-story-inner > p:not(.about-label) {
+  max-width: 720px;
+
+  color: #999;
+
+  font-size: 17px;
+
+  line-height: 1.9;
+}
+
+
+/* =================================
+   CTA
+================================= */
+
+.about-cta {
+  padding: 120px 7%;
+
+  text-align: center;
+}
+
+.about-cta > p {
+  margin-bottom: 18px;
+
+  color: #e99a32;
+
+  font-size: 12px;
+  font-weight: 700;
+
+  letter-spacing: 2px;
+}
+
+.about-cta h2 {
+  max-width: 850px;
+
+  margin: 0 auto 40px;
+
+  font-size: clamp(40px, 6vw, 65px);
+
+  line-height: 1.1;
+}
+
+.about-cta h2 span {
+  color: #e99a32;
+}
+
+.about-explore-btn {
+  display: inline-block;
+
+  padding: 15px 25px;
+
+  border-radius: 8px;
+
+  background: #e99a32;
+
+  color: #111;
+
+  text-decoration: none;
+
+  font-size: 14px;
+  font-weight: 700;
+
+  transition: 0.25s ease;
+}
+
+.about-explore-btn:hover {
+  background: #f2ad4c;
+
+  transform: translateY(-2px);
+}
+
+
+/* =================================
+   RESPONSIVE
+================================= */
+
+@media (max-width: 900px) {
+
+  .about-section {
+    grid-template-columns: 1fr;
+    gap: 25px;
+  }
+
+  .about-section-content h2 {
+    font-size: 38px;
+  }
+
+  .about-features {
+    grid-template-columns: 1fr;
+  }
+
+  .experience-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .about-story {
+    padding: 90px 7%;
+  }
+}
+
+
+@media (max-width: 600px) {
+
+  .about-page {
+    padding-top: 60px;
+  }
+
+  .about-hero-content {
+    padding-top: 65px;
+    padding-bottom: 65px;
+  }
+
+  .about-hero h1 {
+    font-size: 46px;
+  }
+
+  .about-section {
+    padding-top: 75px;
+    padding-bottom: 75px;
+  }
+
+  .about-features {
+    padding-bottom: 75px;
+  }
+
+  .about-experience {
+    padding-top: 80px;
+    padding-bottom: 80px;
+  }
+
+  .experience-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .experience-card {
+    min-height: auto;
+  }
+
+  .about-story {
+    padding: 80px 7%;
+  }
+
+  .about-cta {
+    padding-top: 85px;
+    padding-bottom: 85px;
+  }
+
+}

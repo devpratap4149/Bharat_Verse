@@ -1,0 +1,405 @@
+/* =================================
+   ARTISANS PAGE
+================================= */
+
+.artisans-page {
+  min-height: 100vh;
+
+  background: #0b0b0b;
+
+  color: white;
+
+  padding-top: 90px;
+}
+
+
+/* =================================
+   HEADER
+================================= */
+
+.artisans-header {
+  padding: 55px 8% 35px;
+
+  text-align: center;
+}
+
+.artisans-header p:first-child {
+  margin: 0;
+
+  color: #e99a32;
+
+  font-size: 14px;
+
+  font-weight: 700;
+
+  letter-spacing: 4px;
+}
+
+.artisans-header h1 {
+  margin: 20px 0;
+
+  font-size: 64px;
+
+  line-height: 1.1;
+}
+
+.artisans-header p:last-child {
+  max-width: 700px;
+
+  margin: 0 auto;
+
+  color: #bdbdbd;
+
+  font-size: 18px;
+
+  line-height: 1.7;
+}
+
+
+/* =================================
+   CONTENT
+================================= */
+
+.artisans-content {
+  padding: 15px 8% 90px;
+}
+
+
+/* =================================
+   SEARCH
+================================= */
+
+.artisans-content input {
+  display: block;
+
+  width: 100%;
+
+  max-width: 650px;
+
+  padding: 17px 22px;
+
+  margin: 0 auto 65px;
+
+  box-sizing: border-box;
+
+  border-radius: 10px;
+
+  border: 1px solid rgba(255, 255, 255, 0.15);
+
+  background: rgba(25, 25, 25, 0.9);
+
+  color: white;
+
+  font-size: 16px;
+
+  outline: none;
+
+  transition:
+    border-color 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.artisans-content input:focus {
+  border-color: #e99a32;
+
+  box-shadow:
+    0 0 0 3px rgba(233, 154, 50, 0.1);
+}
+
+.artisans-content input::placeholder {
+  color: #888;
+}
+
+
+/* =================================
+   SECTION TITLE
+================================= */
+
+.artisans-content h2 {
+  margin: 0 0 30px;
+
+  color: white;
+
+  font-size: 36px;
+
+  line-height: 1.2;
+}
+
+
+/* =================================
+   ARTISAN GRID
+================================= */
+
+.artisans-grid {
+  display: grid;
+
+  grid-template-columns:
+    repeat(3, minmax(0, 1fr));
+
+  gap: 28px;
+
+  margin-top: 30px;
+}
+
+
+/* =================================
+   ARTISAN CARD
+================================= */
+
+.artisan-card {
+  display: block;
+
+  overflow: hidden;
+
+  background: #151515;
+
+  border: 1px solid rgba(255, 255, 255, 0.08);
+
+  border-radius: 18px;
+
+  color: white;
+
+  text-decoration: none;
+
+  transition:
+    transform 0.3s ease,
+    border-color 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.artisan-card:hover {
+  transform: translateY(-7px);
+
+  border-color: rgba(233, 154, 50, 0.7);
+
+  box-shadow:
+    0 18px 40px rgba(0, 0, 0, 0.4);
+}
+
+
+/* =================================
+   ARTISAN IMAGE
+================================= */
+
+.artisan-image {
+  width: 100%;
+
+  height: 290px;
+
+  overflow: hidden;
+
+  background: #111;
+}
+
+.artisan-image img {
+  width: 100%;
+
+  height: 100%;
+
+  display: block;
+
+  object-fit: cover;
+
+  object-position: center 35%;
+
+  transition:
+    transform 0.45s ease;
+}
+
+.artisan-card:hover .artisan-image img {
+  transform: scale(1.05);
+}
+
+
+/* =================================
+   CARD CONTENT
+================================= */
+
+.artisan-card-content {
+  padding: 22px 24px 24px;
+}
+
+
+/* =================================
+   CRAFT
+================================= */
+
+.artisan-craft {
+  margin: 0 0 10px;
+
+  color: #e99a32;
+
+  font-size: 13px;
+
+  font-weight: 700;
+
+  letter-spacing: 1.2px;
+
+  text-transform: uppercase;
+}
+
+
+/* =================================
+   ARTISAN NAME
+================================= */
+
+.artisan-card-content h3 {
+  margin: 0 0 18px;
+
+  color: #ffffff;
+
+  font-size: 25px;
+
+  line-height: 1.25;
+}
+
+
+/* =================================
+   LOCATION
+================================= */
+
+.artisan-location {
+  margin: 0 0 12px;
+
+  color: #bdbdbd;
+
+  font-size: 15px;
+}
+
+
+/* =================================
+   EXPERIENCE
+================================= */
+
+.artisan-experience {
+  margin: 0 0 18px;
+
+  color: #bdbdbd;
+
+  font-size: 15px;
+}
+
+
+/* =================================
+   DESCRIPTION
+================================= */
+
+.artisan-description {
+  margin: 0 0 20px;
+
+  color: #999;
+
+  font-size: 14px;
+
+  line-height: 1.7;
+}
+
+
+/* =================================
+   FOOTER
+================================= */
+
+.artisan-footer {
+  display: flex;
+
+  align-items: center;
+
+  justify-content: space-between;
+
+  gap: 15px;
+
+  padding-top: 17px;
+
+  border-top:
+    1px solid rgba(255, 255, 255, 0.08);
+}
+
+.artisan-footer span:first-child {
+  color: #bdbdbd;
+
+  font-size: 12px;
+
+  line-height: 1.4;
+}
+
+.explore-link {
+  color: #e99a32;
+
+  font-size: 13px;
+
+  font-weight: 700;
+
+  white-space: nowrap;
+
+  transition: color 0.2s ease;
+}
+
+.artisan-card:hover .explore-link {
+  color: #ffb75c;
+}
+
+
+/* =================================
+   TABLET
+================================= */
+
+@media (max-width: 1000px) {
+
+  .artisans-header h1 {
+    font-size: 54px;
+  }
+
+  .artisans-grid {
+    grid-template-columns:
+      repeat(2, minmax(0, 1fr));
+  }
+
+}
+
+
+/* =================================
+   MOBILE
+================================= */
+
+@media (max-width: 650px) {
+
+  .artisans-page {
+    padding-top: 75px;
+  }
+
+  .artisans-header {
+    padding: 50px 22px 30px;
+  }
+
+  .artisans-header h1 {
+    font-size: 44px;
+  }
+
+  .artisans-header p:last-child {
+    font-size: 16px;
+  }
+
+  .artisans-content {
+    padding: 15px 22px 70px;
+  }
+
+  .artisans-content h2 {
+    font-size: 30px;
+  }
+
+  .artisans-grid {
+    grid-template-columns: 1fr;
+
+    gap: 22px;
+  }
+
+  .artisan-image {
+    height: 250px;
+  }
+
+  .artisan-card-content {
+    padding: 20px;
+  }
+
+}
+

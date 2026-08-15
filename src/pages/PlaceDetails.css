@@ -1,0 +1,637 @@
+/* =================================
+   PLACE DETAILS PAGE
+================================= */
+
+.details-page {
+  min-height: 100vh;
+  background: #0b0b0b;
+  color: #ffffff;
+}
+
+
+/* =================================
+   HERO
+================================= */
+
+.details-hero {
+  position: relative;
+
+  width: 100%;
+  height: 68vh;
+  min-height: 520px;
+
+  background-size: cover;
+  background-position: center;
+
+  display: flex;
+  align-items: flex-end;
+}
+
+.details-overlay {
+  position: absolute;
+  inset: 0;
+
+  display: flex;
+  align-items: flex-end;
+
+  padding: 80px 7%;
+
+  background:
+    linear-gradient(
+      to top,
+      rgba(0, 0, 0, 0.92) 0%,
+      rgba(0, 0, 0, 0.55) 40%,
+      rgba(0, 0, 0, 0.08) 100%
+    );
+}
+
+.details-hero-content {
+  width: 100%;
+  max-width: 900px;
+}
+
+.details-location {
+  margin-bottom: 14px;
+
+  color: #e99a32;
+
+  font-size: 14px;
+  font-weight: 700;
+
+  letter-spacing: 1.8px;
+  text-transform: uppercase;
+}
+
+.details-hero h1 {
+  margin: 0 0 18px;
+
+  font-size: clamp(48px, 7vw, 90px);
+  line-height: 0.98;
+
+  letter-spacing: -2px;
+}
+
+.details-hero-content > p:last-child {
+  max-width: 750px;
+
+  margin: 0;
+
+  color: #dddddd;
+
+  font-size: 18px;
+  line-height: 1.7;
+}
+
+
+/* =================================
+   MAIN CONTENT
+================================= */
+
+.details-content {
+  width: 100%;
+  max-width: 1200px;
+
+  margin: 0 auto;
+
+  padding: 55px 6% 100px;
+
+  box-sizing: border-box;
+}
+
+
+/* =================================
+   BACK BUTTON
+================================= */
+
+.back-button {
+  display: inline-flex;
+  align-items: center;
+
+  margin-bottom: 55px;
+
+  color: #e99a32;
+
+  font-size: 15px;
+  font-weight: 600;
+
+  text-decoration: none;
+
+  transition: 0.2s ease;
+}
+
+.back-button:hover {
+  color: #ffb75c;
+
+  transform: translateX(-4px);
+}
+
+
+/* =================================
+   ABOUT + INFO
+================================= */
+
+.details-grid {
+  display: grid;
+
+  grid-template-columns:
+    minmax(0, 2fr)
+    minmax(280px, 1fr);
+
+  gap: 70px;
+
+  align-items: start;
+}
+
+.details-main {
+  max-width: 750px;
+}
+
+.details-tag {
+  margin: 0 0 12px;
+
+  color: #e99a32;
+
+  font-size: 12px;
+  font-weight: 800;
+
+  letter-spacing: 2px;
+}
+
+.details-main h2,
+.details-section h2 {
+  margin: 0 0 22px;
+
+  font-size: clamp(30px, 4vw, 42px);
+
+  line-height: 1.15;
+
+  letter-spacing: -0.5px;
+}
+
+.details-description {
+  margin: 0;
+
+  color: #b8b8b8;
+
+  font-size: 18px;
+
+  line-height: 1.85;
+}
+
+
+/* =================================
+   DESTINATION INFO
+================================= */
+
+.details-info {
+  padding: 28px;
+
+  background: #141414;
+
+  border: 1px solid #292929;
+
+  border-radius: 20px;
+
+  box-shadow:
+    0 15px 40px rgba(0, 0, 0, 0.25);
+}
+
+.details-info h3 {
+  margin: 0 0 10px;
+
+  font-size: 21px;
+}
+
+.info-item {
+  display: flex;
+
+  justify-content: space-between;
+
+  gap: 20px;
+
+  padding: 17px 0;
+
+  border-bottom: 1px solid #292929;
+}
+
+.info-item:last-child {
+  border-bottom: none;
+
+  padding-bottom: 0;
+}
+
+.info-item span {
+  color: #858585;
+
+  font-size: 14px;
+}
+
+.info-item strong {
+  max-width: 180px;
+
+  color: #eeeeee;
+
+  font-size: 14px;
+
+  text-align: right;
+
+  line-height: 1.4;
+}
+
+
+/* =================================
+   HISTORY / SIGNIFICANCE
+================================= */
+
+.details-section {
+  max-width: 850px;
+
+  margin-top: 95px;
+}
+
+.details-section p:last-child {
+  margin: 0;
+
+  color: #b7b7b7;
+
+  font-size: 17px;
+
+  line-height: 1.9;
+}
+
+
+/* =================================
+   RELATED PLACES
+================================= */
+
+.related-section {
+  margin-top: 110px;
+}
+
+.related-intro {
+  max-width: 700px;
+
+  margin: 0 0 35px;
+
+  color: #999;
+
+  font-size: 16px;
+
+  line-height: 1.7;
+}
+
+.related-grid {
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 24px;
+}
+
+.related-card {
+  overflow: hidden;
+
+  background: #141414;
+
+  border: 1px solid #292929;
+
+  border-radius: 18px;
+
+  color: white;
+
+  text-decoration: none;
+
+  transition:
+    transform 0.25s ease,
+    border-color 0.25s ease,
+    box-shadow 0.25s ease;
+}
+
+.related-card:hover {
+  transform: translateY(-6px);
+
+  border-color: #e99a32;
+
+  box-shadow:
+    0 15px 35px rgba(0, 0, 0, 0.35);
+}
+
+.related-image-wrapper {
+  width: 100%;
+
+  height: 210px;
+
+  overflow: hidden;
+}
+
+.related-image-wrapper img {
+  width: 100%;
+  height: 100%;
+
+  object-fit: cover;
+
+  display: block;
+
+  transition: transform 0.4s ease;
+}
+
+.related-card:hover .related-image-wrapper img {
+  transform: scale(1.05);
+}
+
+.related-card-content {
+  padding: 22px;
+}
+
+.related-city {
+  margin: 0 0 7px;
+
+  color: #e99a32;
+
+  font-size: 11px;
+
+  font-weight: 800;
+
+  letter-spacing: 1.5px;
+
+  text-transform: uppercase;
+}
+
+.related-card-content h3 {
+  margin: 0 0 10px;
+
+  font-size: 23px;
+
+  line-height: 1.2;
+}
+
+.related-card-content > p:not(.related-city) {
+  margin: 0 0 18px;
+
+  color: #999;
+
+  font-size: 14px;
+
+  line-height: 1.6;
+}
+
+.related-card-content span {
+  color: #e99a32;
+
+  font-size: 14px;
+
+  font-weight: 700;
+}
+
+
+/* =================================
+   FAVORITE BUTTON
+================================= */
+
+.place-actions {
+  margin-top: 30px;
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 15px;
+}
+
+.favorite-btn {
+  padding: 13px 20px;
+
+  border: 1px solid rgba(255, 255, 255, 0.18);
+
+  border-radius: 10px;
+
+  background: rgba(0, 0, 0, 0.35);
+
+  color: #eee;
+
+  font-size: 13px;
+
+  font-weight: 600;
+
+  cursor: pointer;
+
+  backdrop-filter: blur(10px);
+
+  transition: 0.25s ease;
+}
+
+.favorite-btn:hover {
+  border-color: #e99a32;
+
+  color: #e99a32;
+
+  transform: translateY(-2px);
+}
+
+.favorite-btn.active {
+  border-color: #e99a32;
+
+  background: rgba(233, 154, 50, 0.14);
+
+  color: #e99a32;
+}
+
+
+/* =================================
+   TABLET
+================================= */
+
+@media (max-width: 900px) {
+
+  .details-hero {
+    height: 60vh;
+
+    min-height: 470px;
+  }
+
+  .details-overlay {
+    padding: 60px 6%;
+  }
+
+  .details-grid {
+    grid-template-columns: 1fr;
+
+    gap: 40px;
+  }
+
+  .details-info {
+    max-width: 600px;
+  }
+
+  .details-section {
+    margin-top: 75px;
+  }
+
+  .related-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+
+/* =================================
+   MOBILE
+================================= */
+
+@media (max-width: 600px) {
+
+  .details-hero {
+    height: 65vh;
+
+    min-height: 430px;
+
+    background-position: center;
+  }
+
+  .details-overlay {
+    padding: 40px 22px;
+  }
+
+  .details-hero h1 {
+    font-size: 46px;
+
+    letter-spacing: -1px;
+  }
+
+  .details-hero-content > p:last-child {
+    font-size: 15px;
+
+    line-height: 1.6;
+  }
+
+  .details-content {
+    padding: 35px 22px 70px;
+  }
+
+  .back-button {
+    margin-bottom: 40px;
+  }
+
+  .details-main h2,
+  .details-section h2 {
+    font-size: 30px;
+  }
+
+  .details-description {
+    font-size: 16px;
+
+    line-height: 1.75;
+  }
+
+  .details-section p:last-child {
+    font-size: 16px;
+
+    line-height: 1.8;
+  }
+
+  .details-info {
+    padding: 22px;
+  }
+
+  .info-item {
+    align-items: flex-start;
+  }
+
+  .related-section {
+    margin-top: 80px;
+  }
+
+  .related-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .related-image-wrapper {
+    height: 220px;
+  }
+}
+
+
+/* =================================
+   NOT FOUND
+================================= */
+
+.place-not-found {
+  min-height: 100vh;
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+
+  justify-content: center;
+
+  background: #0b0b0b;
+
+  color: white;
+
+  text-align: center;
+
+  padding: 30px;
+}
+
+.place-not-found h1 {
+  font-size: 42px;
+
+  margin-bottom: 10px;
+}
+
+.place-not-found p {
+  color: #888;
+
+  margin-bottom: 25px;
+}
+
+.place-not-found a {
+  color: #e99a32;
+
+  text-decoration: none;
+
+  font-weight: 600;
+}
+
+.place-not-found a:hover {
+  text-decoration: underline;
+}
+
+
+
+
+
+/* =================================
+   YOUTUBE STORY VIDEO
+================================= */
+
+.place-video-section {
+  margin-top: 80px;
+  margin-bottom: 80px;
+}
+
+.place-video-section .details-tag {
+  margin-bottom: 20px;
+}
+
+.place-video-section h2 {
+  margin-bottom: 30px;
+}
+
+.youtube-video-wrapper {
+  width: 100%;
+  overflow: hidden;
+  border-radius: 20px;
+}
+
+
+
+/* =================================
+   MOVE ACCESSIBILITY CARD RIGHT
+================================= */
+
+.details-section .details-grid .details-info {
+  position: relative;
+  left: 180px;
+}

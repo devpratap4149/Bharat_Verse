@@ -1,0 +1,51 @@
+location,level,year,domestic_visits,foreign_visits,total_visits
+Andaman and Nicobar Islands,state_ut,2019,505398,16206,521604
+Andaman and Nicobar Islands,state_ut,2020,191207,5412,196619
+Andaman and Nicobar Islands,state_ut,2021,126238,1687,127925
+Andhra Pradesh,state_ut,2019,237051508,280356,237331864
+Andhra Pradesh,state_ut,2020,70828590,67591,70896181
+Andhra Pradesh,state_ut,2021,93277569,27551,93305120
+Arunachal Pradesh,state_ut,2019,555639,7825,563464
+Arunachal Pradesh,state_ut,2020,42871,961,43832
+Arunachal Pradesh,state_ut,2021,102915,182,103097
+Assam,state_ut,2019,5447805,26878,5474683
+Assam,state_ut,2020,1266898,7285,1274183
+Assam,state_ut,2021,1409161,536,1409697
+Bihar,state_ut,2019,33990038,1093141,35083179
+Bihar,state_ut,2020,5638024,308080,5946104
+Bihar,state_ut,2021,2501193,1046,2502239
+Chandigarh,state_ut,2019,1563795,44132,1607927
+Chandigarh,state_ut,2020,417953,12218,430171
+Chandigarh,state_ut,2021,228809,5451,234260
+Chhattisgarh,state_ut,2019,17304506,6817,17311323
+Chhattisgarh,state_ut,2020,2810227,2322,2812549
+Chhattisgarh,state_ut,2021,4747417,8,4747425
+Dadra and Nagar Haveli,state_ut,2019,618330,1666,619996
+Dadra and Nagar Haveli,state_ut,2020,104959,222,105181
+Dadra and Nagar Haveli,state_ut,2021,197802,80,197882
+Daman and Diu,state_ut,2019,897804,5703,903507
+Daman and Diu,state_ut,2020,297436,1382,298818
+Daman and Diu,state_ut,2021,463420,105,463525
+Delhi,state_ut,2019,36467598,2983436,39451034
+Delhi,state_ut,2020,9583671,681230,10264901
+Delhi,state_ut,2021,10642477,100178,10742655
+Varanasi,district_up,2022,71612127,89689,71701816
+Varanasi,district_up,2023,101647159,220459,101867618
+Ghazipur,district_up,2022,163676,0,163676
+Ghazipur,district_up,2023,79929,0,79929
+Chandauli,district_up,2022,108798,37,108835
+Chandauli,district_up,2023,112002,2459,114461
+Jaunpur,district_up,2022,241567,9,241576
+Jaunpur,district_up,2023,217128,35,217163
+Mirzapur,district_up,2022,6406422,0,6406422
+Mirzapur,district_up,2023,19976136,0,19976136
+Sonbhadra,district_up,2022,1137325,0,1137325
+Sonbhadra,district_up,2023,3492814,0,3492814
+Sant Ravidas Nagar (Bhadohi),district_up,2022,2780798,0,2780798
+Sant Ravidas Nagar (Bhadohi),district_up,2023,3657599,0,3657599
+Agra,district_up,2022,10010849,378635,10389484
+Agra,district_up,2023,11138316,970901,12109217
+Aligarh,district_up,2022,2292582,190,2292772
+Aligarh,district_up,2023,5704000,0,5704000
+Firozabad,district_up,2022,190940,2,190942
+Firozabad,district_up,2023,444850,0,444850

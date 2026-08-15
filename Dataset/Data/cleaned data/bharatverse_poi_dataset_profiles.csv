@@ -1,0 +1,11 @@
+source_file,rows,columns,columns_found
+Destinations_hyderabad.csv,21,4,"destinationid, name, latitude, longitude"
+Destinations_bangalore.csv,82,5,"poi_name, latitude, longitude, name, destinationid"
+Destinations_delhi.csv,52,4,"destinationid, name, latitude, longitude"
+Destinations_chennai.csv,25,5,"poi_name, latitude, longitude, name, destinationid"
+Destinations_kolkata.csv,23,4,"destinationid, name, latitude, longitude"
+Tourist_Spots.csv,459,5,"destinationid, name, latitude, longitude, characteristics"
+Destinations_guwahati.csv,10,6,"poi_name, latitude, longitude, characteristics, name, destinationid"
+Destinations_manali.csv,72,5,"poi_name, latitude, longitude, name, destinationid"
+Destinations_chandigarh.csv,15,4,"destinationid, name, latitude, longitude"
+Destinations_coimbatore.csv,59,5,"poi_name, latitude, longitude, name, destinationid"

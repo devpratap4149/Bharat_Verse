@@ -1,0 +1,21 @@
+location,level,year,domestic_visits,foreign_visits,total_visits,log_total_visits,tourism_popularity_score,tourism_hiddenness_score,mapped_state,unesco_sites,heritage_components,heritage_significance_score,hidden_heritage_score,score_status
+Assam,state_ut,2021,1409161,536,1409697,14.158886055016435,40.138012344385764,59.861987655614236,Assam,2.0,2.0,50.0,54.930993827807114,Calculated from mapped UNESCO + tourism data
+Delhi,state_ut,2021,10642477,100178,10742655,16.189732916285216,68.54036005949983,31.459639940500168,Delhi,2.0,2.0,50.0,40.729819970250084,Calculated from mapped UNESCO + tourism data
+Bihar,state_ut,2021,2501193,1046,2502239,14.732696888670043,48.16302650520106,51.83697349479894,Bihar,1.0,1.0,0.0,25.91848674739947,Calculated from mapped UNESCO + tourism data
+Agra,district_up,2023,11138316,970901,12109217,16.30947753871261,70.21504487599707,29.784955124002934,,,,,,Tourism-only; no reliable UNESCO state match
+Aligarh,district_up,2023,5704000,0,5704000,15.556678416391822,59.68679538581657,40.31320461418343,,,,,,Tourism-only; no reliable UNESCO state match
+Andaman and Nicobar Islands,state_ut,2021,126238,1687,127925,11.75920725072306,6.577376580077818,93.42262341992219,,,,,,Tourism-only; no reliable UNESCO state match
+Andhra Pradesh,state_ut,2021,93277569,27551,93305120,18.351385551771116,98.7720879968815,1.2279120031185045,,,,,,Tourism-only; no reliable UNESCO state match
+Arunachal Pradesh,state_ut,2021,102915,182,103097,11.5434352711748,3.5597040479010764,96.44029595209892,,,,,,Tourism-only; no reliable UNESCO state match
+Chandauli,district_up,2023,112002,2459,114461,11.647998169163573,5.022065313743498,94.9779346862565,,,,,,Tourism-only; no reliable UNESCO state match
+Chandigarh,state_ut,2021,228809,5451,234260,12.36419115737596,15.038360816018,84.961639183982,,,,,,Tourism-only; no reliable UNESCO state match
+Chhattisgarh,state_ut,2021,4747417,8,4747425,15.373113134395965,57.11954865387341,42.88045134612659,,,,,,Tourism-only; no reliable UNESCO state match
+Dadra and Nagar Haveli,state_ut,2021,197802,80,197882,12.195431225930179,12.678173869028155,87.32182613097184,,,,,,Tourism-only; no reliable UNESCO state match
+Daman and Diu,state_ut,2021,463420,105,463525,13.046617757344666,24.582417510792588,75.4175824892074,,,,,,Tourism-only; no reliable UNESCO state match
+Firozabad,district_up,2023,444850,0,444850,13.005494673619134,24.0072918598311,75.9927081401689,,,,,,Tourism-only; no reliable UNESCO state match
+Ghazipur,district_up,2023,79929,0,79929,11.288906530620064,0.0,100.0,,,,,,Tourism-only; no reliable UNESCO state match
+Jaunpur,district_up,2023,217128,35,217163,12.288408107448202,13.978499249885296,86.02150075011471,,,,,,Tourism-only; no reliable UNESCO state match
+Mirzapur,district_up,2023,19976136,0,19976136,16.810048969148106,77.21577156525545,22.78422843474455,,,,,,Tourism-only; no reliable UNESCO state match
+Sant Ravidas Nagar (Bhadohi),district_up,2023,3657599,0,3657599,15.112317752582628,53.472202683074485,46.527797316925515,,,,,,Tourism-only; no reliable UNESCO state match
+Sonbhadra,district_up,2023,3492814,0,3492814,15.066218559317381,52.82748380176613,47.17251619823387,,,,,,Tourism-only; no reliable UNESCO state match
+Varanasi,district_up,2023,101647159,220459,101867618,18.43918467536682,100.0,0.0,,,,,,Tourism-only; no reliable UNESCO state match
