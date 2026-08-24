@@ -22,6 +22,27 @@
 
 //     youtubeVideoId: "tIcqZLN4-sg",
 
+//     // ================================
+//     // TRAVEL PLANNING
+//     // ================================
+
+//     planning: {
+//       estimatedBudget: "₹300–₹600",
+//       budgetCategory: "low",
+//       visitDuration: "half-day",
+//       crowdLevel: "medium",
+//       idealFor: [
+//         "History",
+//         "Architecture",
+//         "Culture"
+//       ]
+//     },
+
+//     hiddenGemScore: 8.5,
+
+//     whyRecommended:
+//       "Recommended for travelers interested in royal history, architecture and cultural traditions who want to explore a heritage site beyond Varanasi's famous ghats.",
+
 //     safety: {
 //       level: "Moderate",
 //       tips: [
@@ -41,8 +62,9 @@
 //     },
 
 //     image:
-//       "https://media.tripinvites.com/places/varanasi/ramnagar-fort/ramnagar-fort-varanasi-featured.jpg",
+//       "https://media.tripinvites.com/places/varanasi/ramnagar-fort/ramnagar-fort-varanasi-featured.jpg"
 //   },
+
 
 //   {
 //     id: 2,
@@ -67,6 +89,23 @@
 
 //     youtubeVideoId: "z69bMYuA0ZU",
 
+//     planning: {
+//       estimatedBudget: "₹200–₹500",
+//       budgetCategory: "low",
+//       visitDuration: "half-day",
+//       crowdLevel: "high",
+//       idealFor: [
+//         "Spirituality",
+//         "History",
+//         "Culture"
+//       ]
+//     },
+
+//     hiddenGemScore: 7.5,
+
+//     whyRecommended:
+//       "Recommended for travelers who want to experience Varanasi's spiritual heritage and historic riverfront beyond the city's most famous locations.",
+
 //     safety: {
 //       level: "Moderate",
 //       tips: [
@@ -86,8 +125,9 @@
 //     },
 
 //     image:
-//       "https://www.indiaeasytrip.com/states-of-india/panchganga-ghat-varanasi-images.jpg",
+//       "https://www.indiaeasytrip.com/states-of-india/panchganga-ghat-varanasi-images.jpg"
 //   },
+
 
 //   {
 //     id: 3,
@@ -112,6 +152,23 @@
 
 //     youtubeVideoId: "_jZ5ZMi_uHo",
 
+//     planning: {
+//       estimatedBudget: "₹200–₹500",
+//       budgetCategory: "low",
+//       visitDuration: "half-day",
+//       crowdLevel: "medium",
+//       idealFor: [
+//         "History",
+//         "Architecture",
+//         "Science"
+//       ]
+//     },
+
+//     hiddenGemScore: 9,
+
+//     whyRecommended:
+//       "Recommended for curious travelers interested in the connection between Indian astronomy, mathematics, architecture and heritage.",
+
 //     safety: {
 //       level: "Low",
 //       tips: [
@@ -131,8 +188,9 @@
 //     },
 
 //     image:
-//       "https://c8.alamy.com/comp/A1A5G1/man-mandir-ghat-built-by-rajah-man-singh-in-1600-showing-jai-singhs-A1A5G1.jpg",
+//       "https://c8.alamy.com/comp/A1A5G1/man-mandir-ghat-built-by-rajah-man-singh-in-1600-showing-jai-singhs-A1A5G1.jpg"
 //   },
+
 
 //   {
 //     id: 4,
@@ -157,6 +215,23 @@
 
 //     youtubeVideoId: "ZhOmvOBQ4pc",
 
+//     planning: {
+//       estimatedBudget: "₹400–₹800",
+//       budgetCategory: "medium",
+//       visitDuration: "half-day",
+//       crowdLevel: "medium",
+//       idealFor: [
+//         "Architecture",
+//         "History",
+//         "Culture"
+//       ]
+//     },
+
+//     hiddenGemScore: 6.5,
+
+//     whyRecommended:
+//       "Recommended for visitors interested in Nawabi architecture, historic monuments and the unique Bhool Bhulaiya experience.",
+
 //     safety: {
 //       level: "Moderate",
 //       tips: [
@@ -176,8 +251,9 @@
 //     },
 
 //     image:
-//       "https://tse3.mm.bing.net/th/id/OIP.AY3hJJlJG6JfmyhFMvY11QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3",
+//       "https://tse3.mm.bing.net/th/id/OIP.AY3hJJlJG6JfmyhFMvY11QHaEK?rs=1&pid=ImgDetMain&o=7&rm=3"
 //   },
+
 
 //   {
 //     id: 5,
@@ -202,6 +278,23 @@
 
 //     youtubeVideoId: "7_tkFXFaNcA",
 
+//     planning: {
+//       estimatedBudget: "₹300–₹700",
+//       budgetCategory: "medium",
+//       visitDuration: "half-day",
+//       crowdLevel: "medium",
+//       idealFor: [
+//         "Architecture",
+//         "History",
+//         "Culture"
+//       ]
+//     },
+
+//     hiddenGemScore: 7,
+
+//     whyRecommended:
+//       "Recommended for travelers interested in ornate architecture, Nawabi history, decorative arts and cultural heritage.",
+
 //     safety: {
 //       level: "Low",
 //       tips: [
@@ -221,8 +314,9 @@
 //     },
 
 //     image:
-//       "https://thrillingtravel.in/wp-content/uploads/2017/12/Chota-Imambara-Lucknow-attractions-1024x683.jpg",
+//       "https://thrillingtravel.in/wp-content/uploads/2017/12/Chota-Imambara-Lucknow-attractions-1024x683.jpg"
 //   },
+
 
 //   {
 //     id: 6,
@@ -247,6 +341,23 @@
 
 //     youtubeVideoId: "AGsLrBTGJ3U",
 
+//     planning: {
+//       estimatedBudget: "₹200–₹500",
+//       budgetCategory: "low",
+//       visitDuration: "half-day",
+//       crowdLevel: "high",
+//       idealFor: [
+//         "Architecture",
+//         "History",
+//         "Photography"
+//       ]
+//     },
+
+//     hiddenGemScore: 7,
+
+//     whyRecommended:
+//       "Recommended for travelers interested in iconic Awadhi architecture who want a quick heritage stop within Lucknow.",
+
 //     safety: {
 //       level: "Moderate",
 //       tips: [
@@ -266,8 +377,9 @@
 //     },
 
 //     image:
-//       "https://www.tourmyindia.com/socialimg/rumi-darwaza-lucknow.jpg",
+//       "https://www.tourmyindia.com/socialimg/rumi-darwaza-lucknow.jpg"
 //   },
+
 
 //   {
 //     id: 7,
@@ -292,6 +404,23 @@
 
 //     youtubeVideoId: "DcNLbIbcDXU",
 
+//     planning: {
+//       estimatedBudget: "₹800–₹1,500",
+//       budgetCategory: "medium",
+//       visitDuration: "2+ days",
+//       crowdLevel: "low",
+//       idealFor: [
+//         "Spirituality",
+//         "Nature",
+//         "Pilgrimage"
+//       ]
+//     },
+
+//     hiddenGemScore: 9.5,
+
+//     whyRecommended:
+//       "Recommended for travelers seeking a spiritual and nature-focused experience away from mainstream tourist destinations.",
+
 //     safety: {
 //       level: "High",
 //       tips: [
@@ -311,8 +440,9 @@
 //     },
 
 //     image:
-//       "https://commons.wikimedia.org/wiki/Special:FilePath/Shikharji_01.jpg",
+//       "https://commons.wikimedia.org/wiki/Special:FilePath/Shikharji_01.jpg"
 //   },
+
 
 //   {
 //     id: 8,
@@ -337,6 +467,23 @@
 
 //     youtubeVideoId: "D5tW5-MI1uc",
 
+//     planning: {
+//       estimatedBudget: "₹300–₹600",
+//       budgetCategory: "low",
+//       visitDuration: "half-day",
+//       crowdLevel: "low",
+//       idealFor: [
+//         "Architecture",
+//         "History",
+//         "Spirituality"
+//       ]
+//     },
+
+//     hiddenGemScore: 9.5,
+
+//     whyRecommended:
+//       "Recommended for travelers looking for unusual architecture, ancient temple traditions and a quieter heritage experience.",
+
 //     safety: {
 //       level: "Moderate",
 //       tips: [
@@ -356,8 +503,9 @@
 //     },
 
 //     image:
-//       "https://commons.wikimedia.org/wiki/Special:FilePath/Chausath_Yogini_Temple_of_Mitawali%2C_Morena%2C_Madhya_Pradesh.jpg",
+//       "https://commons.wikimedia.org/wiki/Special:FilePath/Chausath_Yogini_Temple_of_Mitawali%2C_Morena%2C_Madhya_Pradesh.jpg"
 //   },
+
 
 //   {
 //     id: 9,
@@ -382,6 +530,23 @@
 
 //     youtubeVideoId: "3T50bZUb0kQ",
 
+//     planning: {
+//       estimatedBudget: "₹1,000–₹2,000",
+//       budgetCategory: "medium",
+//       visitDuration: "1-day",
+//       crowdLevel: "low",
+//       idealFor: [
+//         "History",
+//         "Archaeology",
+//         "Architecture"
+//       ]
+//     },
+
+//     hiddenGemScore: 9,
+
+//     whyRecommended:
+//       "Recommended for travelers fascinated by ancient civilizations, archaeology, urban planning and India's early water-management systems.",
+
 //     safety: {
 //       level: "Moderate",
 //       tips: [
@@ -401,8 +566,9 @@
 //     },
 
 //     image:
-//       "https://commons.wikimedia.org/wiki/Special:FilePath/Dholavira.jpg",
+//       "https://commons.wikimedia.org/wiki/Special:FilePath/Dholavira.jpg"
 //   },
+
 
 //   {
 //     id: 10,
@@ -427,6 +593,23 @@
 
 //     youtubeVideoId: "YA3_zsKDNmg",
 
+//     planning: {
+//       estimatedBudget: "₹400–₹900",
+//       budgetCategory: "medium",
+//       visitDuration: "half-day",
+//       crowdLevel: "low",
+//       idealFor: [
+//         "Architecture",
+//         "History",
+//         "Art & Crafts"
+//       ]
+//     },
+
+//     hiddenGemScore: 9,
+
+//     whyRecommended:
+//       "Recommended for travelers interested in Vijayanagara architecture, temple art, sculptures and lesser-known cultural heritage.",
+
 //     safety: {
 //       level: "Low",
 //       tips: [
@@ -446,11 +629,16 @@
 //     },
 
 //     image:
-//       "https://commons.wikimedia.org/wiki/Special:FilePath/Lepakshi_temple.jpg",
-//   },
+//       "https://commons.wikimedia.org/wiki/Special:FilePath/Lepakshi_temple.jpg"
+//   }
 // ];
 
 // export default places;
+
+
+
+
+
 
 
 
@@ -494,10 +682,6 @@ const places = [
 
     youtubeVideoId: "tIcqZLN4-sg",
 
-    // ================================
-    // TRAVEL PLANNING
-    // ================================
-
     planning: {
       estimatedBudget: "₹300–₹600",
       budgetCategory: "low",
@@ -521,6 +705,42 @@ const places = [
         "Stay within designated visitor areas.",
         "Keep personal belongings secure in crowded areas.",
         "Follow local site rules and staff instructions."
+      ]
+    },
+
+    womenSafety: {
+      safetyScore: 82,
+
+      pinkToilets: {
+        available: true,
+        count: 2
+      },
+
+      policeSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      medicalSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      transport: {
+        available: true,
+        type: "Auto / Cab"
+      },
+
+      network: "Good",
+      lighting: "Good",
+      safeStay: true,
+      sanitaryFacilities: true,
+      emergencySupport: true,
+
+      safetyTips: [
+        "Prefer daytime visits.",
+        "Stay within designated visitor areas.",
+        "Keep emergency contacts accessible."
       ]
     },
 
@@ -583,6 +803,42 @@ const places = [
       tips: [
         "Be careful around steps and the riverfront.",
         "Avoid entering the river without appropriate local guidance.",
+        "Keep valuables secure in crowded areas."
+      ]
+    },
+
+    womenSafety: {
+      safetyScore: 76,
+
+      pinkToilets: {
+        available: true,
+        count: 1
+      },
+
+      policeSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      medicalSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      transport: {
+        available: true,
+        type: "Auto / Cab"
+      },
+
+      network: "Good",
+      lighting: "Good",
+      safeStay: true,
+      sanitaryFacilities: true,
+      emergencySupport: true,
+
+      safetyTips: [
+        "Prefer daylight visits.",
+        "Be cautious around steps and the riverfront.",
         "Keep valuables secure in crowded areas."
       ]
     },
@@ -650,6 +906,42 @@ const places = [
       ]
     },
 
+    womenSafety: {
+      safetyScore: 85,
+
+      pinkToilets: {
+        available: true,
+        count: 1
+      },
+
+      policeSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      medicalSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      transport: {
+        available: true,
+        type: "Auto / Cab"
+      },
+
+      network: "Good",
+      lighting: "Good",
+      safeStay: true,
+      sanitaryFacilities: true,
+      emergencySupport: true,
+
+      safetyTips: [
+        "Prefer daytime visits.",
+        "Follow instructions around historic structures.",
+        "Avoid restricted areas."
+      ]
+    },
+
     accessibility: {
       seniorFriendly: true,
       wheelchairAccessible: false,
@@ -713,6 +1005,42 @@ const places = [
       ]
     },
 
+    womenSafety: {
+      safetyScore: 86,
+
+      pinkToilets: {
+        available: true,
+        count: 2
+      },
+
+      policeSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      medicalSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      transport: {
+        available: true,
+        type: "Auto / Cab"
+      },
+
+      network: "Good",
+      lighting: "Good",
+      safeStay: true,
+      sanitaryFacilities: true,
+      emergencySupport: true,
+
+      safetyTips: [
+        "Stay on designated visitor routes.",
+        "Be cautious on stairs and narrow passages.",
+        "Prefer visiting during operating hours."
+      ]
+    },
+
     accessibility: {
       seniorFriendly: false,
       wheelchairAccessible: false,
@@ -772,6 +1100,42 @@ const places = [
       tips: [
         "Follow visitor instructions inside the monument.",
         "Be careful around steps and uneven historic surfaces.",
+        "Keep valuables secure in crowded areas."
+      ]
+    },
+
+    womenSafety: {
+      safetyScore: 86,
+
+      pinkToilets: {
+        available: true,
+        count: 2
+      },
+
+      policeSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      medicalSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      transport: {
+        available: true,
+        type: "Auto / Cab"
+      },
+
+      network: "Good",
+      lighting: "Good",
+      safeStay: true,
+      sanitaryFacilities: true,
+      emergencySupport: true,
+
+      safetyTips: [
+        "Follow monument visitor instructions.",
+        "Be careful around steps.",
         "Keep valuables secure in crowded areas."
       ]
     },
@@ -839,6 +1203,42 @@ const places = [
       ]
     },
 
+    womenSafety: {
+      safetyScore: 74,
+
+      pinkToilets: {
+        available: false,
+        count: 0
+      },
+
+      policeSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      medicalSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      transport: {
+        available: true,
+        type: "Auto / Cab"
+      },
+
+      network: "Good",
+      lighting: "Good",
+      safeStay: true,
+      sanitaryFacilities: false,
+      emergencySupport: true,
+
+      safetyTips: [
+        "Be cautious around traffic.",
+        "Prefer daytime visits.",
+        "Stay in active public areas."
+      ]
+    },
+
     accessibility: {
       seniorFriendly: true,
       wheelchairAccessible: true,
@@ -899,6 +1299,42 @@ const places = [
         "Follow designated pilgrimage routes.",
         "Carry sufficient drinking water during long walks.",
         "Avoid isolated areas and follow local guidance."
+      ]
+    },
+
+    womenSafety: {
+      safetyScore: 72,
+
+      pinkToilets: {
+        available: true,
+        count: 1
+      },
+
+      policeSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      medicalSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      transport: {
+        available: true,
+        type: "Local Transport"
+      },
+
+      network: "Moderate",
+      lighting: "Moderate",
+      safeStay: true,
+      sanitaryFacilities: true,
+      emergencySupport: true,
+
+      safetyTips: [
+        "Follow designated pilgrimage routes.",
+        "Avoid isolated areas.",
+        "Carry sufficient water and emergency contacts."
       ]
     },
 
@@ -965,6 +1401,42 @@ const places = [
       ]
     },
 
+    womenSafety: {
+      safetyScore: 68,
+
+      pinkToilets: {
+        available: false,
+        count: 0
+      },
+
+      policeSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      medicalSupport: {
+        available: false,
+        distance: "Limited"
+      },
+
+      transport: {
+        available: true,
+        type: "Local Transport"
+      },
+
+      network: "Moderate",
+      lighting: "Moderate",
+      safeStay: false,
+      sanitaryFacilities: false,
+      emergencySupport: true,
+
+      safetyTips: [
+        "Prefer daytime visits.",
+        "Use caution while climbing the hill and steps.",
+        "Avoid isolated areas."
+      ]
+    },
+
     accessibility: {
       seniorFriendly: false,
       wheelchairAccessible: false,
@@ -1025,6 +1497,42 @@ const places = [
         "Carry sufficient drinking water.",
         "Follow designated archaeological paths.",
         "Protect yourself from strong sunlight and heat."
+      ]
+    },
+
+    womenSafety: {
+      safetyScore: 65,
+
+      pinkToilets: {
+        available: false,
+        count: 0
+      },
+
+      policeSupport: {
+        available: false,
+        distance: "Limited"
+      },
+
+      medicalSupport: {
+        available: false,
+        distance: "Limited"
+      },
+
+      transport: {
+        available: true,
+        type: "Pre-planned Transport"
+      },
+
+      network: "Limited",
+      lighting: "Limited",
+      safeStay: true,
+      sanitaryFacilities: false,
+      emergencySupport: true,
+
+      safetyTips: [
+        "Plan transportation in advance.",
+        "Carry sufficient water.",
+        "Avoid isolated areas and extreme weather conditions."
       ]
     },
 
@@ -1091,6 +1599,42 @@ const places = [
       ]
     },
 
+    womenSafety: {
+      safetyScore: 84,
+
+      pinkToilets: {
+        available: true,
+        count: 1
+      },
+
+      policeSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      medicalSupport: {
+        available: true,
+        distance: "Nearby"
+      },
+
+      transport: {
+        available: true,
+        type: "Auto / Cab"
+      },
+
+      network: "Moderate",
+      lighting: "Good",
+      safeStay: true,
+      sanitaryFacilities: true,
+      emergencySupport: true,
+
+      safetyTips: [
+        "Follow temple visitor rules.",
+        "Be careful on stone surfaces and steps.",
+        "Prefer daytime visits."
+      ]
+    },
+
     accessibility: {
       seniorFriendly: true,
       wheelchairAccessible: false,
@@ -1106,3 +1650,4 @@ const places = [
 ];
 
 export default places;
+

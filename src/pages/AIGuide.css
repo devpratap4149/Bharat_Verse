@@ -1,7 +1,7 @@
 /* =========================================================
    AI GUIDE PAGE
 ========================================================= */
-
+/* 
 .ai-guide-page {
   min-height: 100vh;
 
@@ -12,14 +12,14 @@
   padding-top: 75px;
 
   overflow-x: hidden;
-}
+} */
 
 
 /* =========================================================
    HERO
 ========================================================= */
 
-.ai-guide-hero {
+/* .ai-guide-hero {
   width: 100%;
 
   max-width: 1000px;
@@ -84,14 +84,14 @@
   font-size: 17px;
 
   line-height: 1.8;
-}
+} */
 
 
 /* =========================================================
    PERSONALIZATION
 ========================================================= */
 
-.personalization {
+/* .personalization {
   width: calc(100% - 60px);
 
   max-width: 1100px;
@@ -122,14 +122,14 @@
   font-weight: 700;
 
   letter-spacing: 2px;
-}
+} */
 
 
 /* =========================================================
    INTERESTS
 ========================================================= */
 
-.interests-section {
+/* .interests-section {
   margin-bottom: 30px;
 }
 
@@ -193,14 +193,14 @@
   accent-color: #e99a32;
 
   cursor: pointer;
-}
+} */
 
 
 /* =========================================================
    BUDGET / TIME / CROWD
 ========================================================= */
 
-.preference-row {
+/* .preference-row {
   display: grid;
 
   grid-template-columns:
@@ -278,14 +278,14 @@
 
   box-shadow:
     0 0 0 3px rgba(233, 154, 50, 0.08);
-}
+} */
 
 
 /* =========================================================
    ACCESSIBILITY
 ========================================================= */
 
-.accessibility-section {
+/* .accessibility-section {
   margin-top: 20px;
 
   padding: 22px;
@@ -344,7 +344,7 @@
    RECOMMEND BUTTON
 ========================================================= */
 
-.recommend-button {
+/* .recommend-button {
   display: inline-flex;
 
   align-items: center;
@@ -386,14 +386,14 @@
 
 .recommend-button:active {
   transform: translateY(0);
-}
+} */
 
 
 /* =========================================================
    MAIN CONTAINER
 ========================================================= */
 
-.ai-guide-container {
+/* .ai-guide-container {
   width: calc(100% - 60px);
 
   max-width: 1100px;
@@ -403,14 +403,14 @@
   padding: 0 0 90px;
 
   box-sizing: border-box;
-}
+} */
 
 
 /* =========================================================
    SUGGESTIONS
 ========================================================= */
 
-.suggestions {
+/* .suggestions {
   margin-bottom: 18px;
 }
 
@@ -458,14 +458,14 @@
   background: rgba(233, 154, 50, 0.06);
 
   transform: translateY(-1px);
-}
+} */
 
 
 /* =========================================================
    CHAT BOX
 ========================================================= */
 
-.ai-chat {
+/* .ai-chat {
   min-height: 520px;
 
   display: flex;
@@ -482,14 +482,14 @@
 
   box-shadow:
     0 20px 60px rgba(0, 0, 0, 0.35);
-}
+} */
 
 
 /* =========================================================
    EMPTY CHAT
 ========================================================= */
 
-.empty-chat {
+/* .empty-chat {
   flex: 1;
 
   min-height: 400px;
@@ -547,14 +547,14 @@
   color: #777777;
 
   line-height: 1.7;
-}
+} */
 
 
 /* =========================================================
    MESSAGES
 ========================================================= */
 
-.messages {
+/* .messages {
   flex: 1;
 
   padding: 35px;
@@ -618,14 +618,14 @@
   font-weight: 700;
 
   letter-spacing: 1.2px;
-}
+} */
 
 
 /* =========================================================
    INPUT
 ========================================================= */
 
-.ai-input-area {
+/* .ai-input-area {
   display: flex;
 
   gap: 10px;
@@ -694,14 +694,14 @@
   background: #f2ad4c;
 
   transform: translateY(-1px);
-}
+} */
 
 
 /* =========================================================
    TABLET
 ========================================================= */
 
-@media (max-width: 850px) {
+/* @media (max-width: 850px) {
 
   .preference-row {
     grid-template-columns: 1fr;
@@ -711,14 +711,14 @@
     padding: 18px;
   }
 
-}
+} */
 
 
 /* =========================================================
    MOBILE
 ========================================================= */
 
-@media (max-width: 600px) {
+/* @media (max-width: 600px) {
 
   .ai-guide-page {
     padding-top: 60px;
@@ -811,14 +811,14 @@
     padding: 0 16px;
   }
 
-}
+} */
 
 
 /* =========================================================
    VERY SMALL SCREENS
 ========================================================= */
 
-@media (max-width: 400px) {
+/*@media (max-width: 400px) {
 
   .ai-guide-hero h1 {
     font-size: 38px;
@@ -832,4 +832,726 @@
     height: 45px;
   }
 
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* # AIGuide.css */
+
+/* =====================================================
+   AI GUIDE PAGE
+===================================================== */
+
+.ai-guide-page {
+  min-height: 100vh;
+  background: #0b0b0b;
+  color: #fff;
+  padding-top: 75px;
 }
+
+
+/* =====================================================
+   HERO
+===================================================== */
+
+.ai-guide-hero {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 90px 7% 65px;
+  text-align: center;
+}
+
+.ai-guide-badge {
+  display: inline-block;
+  margin-bottom: 20px;
+
+  color: #e99a32;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+.ai-guide-hero h1 {
+  margin: 0;
+
+  font-size: clamp(44px, 6vw, 72px);
+  line-height: 1.05;
+  letter-spacing: -2px;
+}
+
+.ai-guide-hero h1 span {
+  color: #e99a32;
+}
+
+.ai-guide-hero p {
+  max-width: 700px;
+  margin: 25px auto 0;
+
+  color: #999;
+  font-size: 17px;
+  line-height: 1.8;
+}
+
+
+/* =====================================================
+   PERSONALIZATION
+===================================================== */
+
+.personalization {
+  max-width: 1100px;
+  margin: 0 auto;
+
+  padding: 45px 7% 70px;
+
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.personalization-label {
+  margin-bottom: 35px;
+
+  color: #e99a32;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+
+/* =====================================================
+   INTERESTS
+===================================================== */
+
+.interests-section h2,
+.accessibility-section h2 {
+  margin: 0 0 20px;
+
+  font-size: 24px;
+}
+
+.interests-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.interest-item {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+
+  padding: 12px 16px;
+
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 10px;
+
+  background: #111;
+
+  color: #bbb;
+
+  cursor: pointer;
+
+  transition: 0.2s ease;
+}
+
+.interest-item:hover {
+  border-color: rgba(233, 154, 50, 0.45);
+  color: #fff;
+}
+
+.interest-item.selected {
+  border-color: #e99a32;
+  background: rgba(233, 154, 50, 0.12);
+  color: #fff;
+}
+
+.interest-item input {
+  accent-color: #e99a32;
+}
+
+
+/* =====================================================
+   PREFERENCE ROW
+===================================================== */
+
+.preference-row {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 22px;
+
+  margin-top: 45px;
+}
+
+.preference-item h3 {
+  margin: 0 0 12px;
+
+  font-size: 17px;
+}
+
+.preference-item select {
+  width: 100%;
+
+  padding: 13px 14px;
+
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  border-radius: 9px;
+
+  background: #111;
+  color: #fff;
+
+  font-size: 14px;
+
+  outline: none;
+}
+
+.preference-item select:focus {
+  border-color: #e99a32;
+}
+
+
+/* =====================================================
+   ACCESSIBILITY
+===================================================== */
+
+.accessibility-section {
+  margin-top: 45px;
+}
+
+.accessibility-list {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 20px;
+}
+
+.accessibility-item {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+
+  color: #aaa;
+
+  cursor: pointer;
+}
+
+.accessibility-item input {
+  accent-color: #e99a32;
+}
+
+
+/* =====================================================
+   RECOMMEND BUTTON
+===================================================== */
+
+.recommend-button {
+  margin-top: 40px;
+
+  padding: 15px 24px;
+
+  border: none;
+  border-radius: 10px;
+
+  background: #e99a32;
+  color: #111;
+
+  font-size: 15px;
+  font-weight: 700;
+
+  cursor: pointer;
+
+  transition: 0.25s ease;
+}
+
+.recommend-button:hover {
+  background: #f2ad4c;
+  transform: translateY(-2px);
+}
+
+
+/* =====================================================
+   RECOMMENDATION RESULTS
+===================================================== */
+
+.recommendation-results {
+  max-width: 1100px;
+  margin: 0 auto;
+
+  padding: 70px 7% 90px;
+
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.results-heading span {
+  color: #e99a32;
+
+  font-size: 12px;
+  font-weight: 700;
+
+  letter-spacing: 2px;
+}
+
+.results-heading h2 {
+  margin: 10px 0;
+
+  font-size: clamp(30px, 4vw, 45px);
+}
+
+.results-heading p {
+  margin: 0 0 35px;
+
+  color: #888;
+
+  line-height: 1.7;
+}
+
+
+/* =====================================================
+   RECOMMENDATION GRID
+===================================================== */
+
+.recommendation-grid {
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 20px;
+}
+
+.recommendation-card {
+  padding: 28px;
+
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 16px;
+
+  background: #111;
+
+  transition: 0.25s ease;
+}
+
+.recommendation-card:hover {
+  transform: translateY(-5px);
+
+  border-color: rgba(233, 154, 50, 0.4);
+  background: #141414;
+}
+
+
+/* =====================================================
+   CARD TOP
+===================================================== */
+
+.recommendation-top {
+  display: flex;
+
+  align-items: center;
+  justify-content: space-between;
+
+  margin-bottom: 30px;
+}
+
+.rank {
+  color: #e99a32;
+
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.match-score {
+  padding: 7px 10px;
+
+  border-radius: 20px;
+
+  background: rgba(233, 154, 50, 0.12);
+  color: #e99a32;
+
+  font-size: 12px;
+  font-weight: 700;
+}
+
+
+/* =====================================================
+   CARD CONTENT
+===================================================== */
+
+.recommendation-card h3 {
+  margin: 0 0 7px;
+
+  font-size: 23px;
+}
+
+.recommendation-location {
+  margin: 0 0 25px;
+
+  color: #777;
+
+  font-size: 14px;
+}
+
+
+/* =====================================================
+   DESTINATION DETAILS
+===================================================== */
+
+.recommendation-details {
+  display: grid;
+
+  grid-template-columns: 1fr;
+
+  gap: 10px;
+
+  padding: 18px 0;
+
+  border-top: 1px solid rgba(255, 255, 255, 0.07);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.07);
+}
+
+.recommendation-details div {
+  display: flex;
+
+  justify-content: space-between;
+
+  gap: 15px;
+}
+
+.recommendation-details span {
+  color: #777;
+
+  font-size: 13px;
+}
+
+.recommendation-details strong {
+  color: #ddd;
+
+  font-size: 13px;
+  font-weight: 600;
+
+  text-align: right;
+}
+
+
+/* =====================================================
+   MATCH REASONS
+===================================================== */
+
+.match-reasons {
+  margin-top: 20px;
+}
+
+.match-reasons p {
+  margin: 0 0 10px;
+
+  color: #fff;
+
+  font-size: 13px;
+  font-weight: 700;
+}
+
+.match-reasons span {
+  display: block;
+
+  margin-top: 6px;
+
+  color: #999;
+
+  font-size: 13px;
+}
+
+
+/* =====================================================
+   CHAT AREA
+===================================================== */
+
+.ai-guide-container {
+  max-width: 1100px;
+
+  margin: 0 auto;
+
+  padding: 30px 7% 100px;
+}
+
+.suggestions > p {
+  margin: 0 0 12px;
+
+  color: #777;
+
+  font-size: 13px;
+}
+
+.suggestion-list {
+  display: flex;
+  flex-wrap: wrap;
+
+  gap: 10px;
+}
+
+.suggestion-list button {
+  padding: 10px 15px;
+
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 30px;
+
+  background: #111;
+  color: #aaa;
+
+  cursor: pointer;
+
+  transition: 0.2s ease;
+}
+
+.suggestion-list button:hover {
+  border-color: rgba(233, 154, 50, 0.4);
+  color: #fff;
+}
+
+
+/* =====================================================
+   CHAT
+===================================================== */
+
+.ai-chat {
+  margin-top: 30px;
+
+  min-height: 350px;
+
+  border: 1px solid rgba(255, 255, 255, 0.09);
+  border-radius: 16px;
+
+  background: #111;
+
+  overflow: hidden;
+}
+
+.empty-chat {
+  min-height: 270px;
+
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+
+  padding: 40px;
+
+  text-align: center;
+}
+
+.ai-icon {
+  display: flex;
+
+  width: 50px;
+  height: 50px;
+
+  align-items: center;
+  justify-content: center;
+
+  margin-bottom: 20px;
+
+  border-radius: 50%;
+
+  background: rgba(233, 154, 50, 0.12);
+
+  color: #e99a32;
+
+  font-size: 22px;
+}
+
+.empty-chat h2 {
+  margin: 0 0 10px;
+
+  font-size: 25px;
+}
+
+.empty-chat p {
+  margin: 0;
+
+  color: #777;
+}
+
+
+/* =====================================================
+   MESSAGES
+===================================================== */
+
+.messages {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 18px;
+
+  padding: 30px;
+}
+
+.message {
+  max-width: 80%;
+
+  padding: 18px 20px;
+
+  border-radius: 14px;
+
+  line-height: 1.7;
+}
+
+.message p {
+  margin: 0;
+  white-space: pre-line;
+}
+
+.message.user {
+  align-self: flex-end;
+
+  background: #e99a32;
+
+  color: #111;
+}
+
+.message.ai {
+  align-self: flex-start;
+
+  background: #1a1a1a;
+
+  border: 1px solid rgba(255, 255, 255, 0.07);
+
+  color: #ccc;
+}
+
+.message-label {
+  display: block;
+
+  margin-bottom: 8px;
+
+  color: #e99a32;
+
+  font-size: 11px;
+  font-weight: 700;
+
+  letter-spacing: 1.5px;
+}
+
+
+/* =====================================================
+   INPUT
+===================================================== */
+
+.ai-input-area {
+  display: flex;
+
+  gap: 10px;
+
+  padding: 15px;
+
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.ai-input-area input {
+  flex: 1;
+
+  padding: 14px 16px;
+
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  border-radius: 9px;
+
+  outline: none;
+
+  background: #0b0b0b;
+  color: #fff;
+
+  font-size: 14px;
+}
+
+.ai-input-area input:focus {
+  border-color: #e99a32;
+}
+
+.ai-input-area button {
+  padding: 0 20px;
+
+  border: none;
+  border-radius: 9px;
+
+  background: #e99a32;
+  color: #111;
+
+  font-weight: 700;
+
+  cursor: pointer;
+}
+
+
+/* =====================================================
+   RESPONSIVE
+===================================================== */
+
+@media (max-width: 850px) {
+
+  .preference-row {
+    grid-template-columns: 1fr;
+  }
+
+  .recommendation-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .ai-guide-hero {
+    padding-top: 70px;
+  }
+
+  .message {
+    max-width: 90%;
+  }
+}
+
+
+@media (max-width: 550px) {
+
+  .ai-guide-page {
+    padding-top: 60px;
+  }
+
+  .ai-guide-hero {
+    padding: 60px 6% 45px;
+  }
+
+  .ai-guide-hero h1 {
+    font-size: 42px;
+  }
+
+  .personalization,
+  .recommendation-results,
+  .ai-guide-container {
+    padding-left: 6%;
+    padding-right: 6%;
+  }
+
+  .interests-list {
+    flex-direction: column;
+  }
+
+  .interest-item {
+    width: 100%;
+  }
+
+  .ai-input-area {
+    flex-direction: column;
+  }
+
+  .ai-input-area button {
+    padding: 13px;
+  }
+}
+

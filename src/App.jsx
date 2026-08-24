@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar";
 import Home from "./pages/Home";
 import Explore from "./pages/Explore";
 import PlaceDetails from "./pages/PlaceDetails";
+import SoloWomen from "./pages/SoloWomen";
 import Artisans from "./pages/Artisans";
 import ArtisanDetails from "./pages/ArtisanDetails";
 import AIGuide from "./pages/AIGuide";
@@ -32,6 +33,8 @@ function App() {
           path="/place/:id"
           element={<PlaceDetails />}
         />
+
+        <Route path="/solo-women" element={<SoloWomen />} />
 
         <Route
           path="/artisans"
