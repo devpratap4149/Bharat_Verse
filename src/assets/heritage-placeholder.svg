@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 720" role="img" aria-labelledby="title desc">
+  <title id="title">BharatVerse heritage placeholder</title>
+  <desc id="desc">A decorative illustration of an Indian heritage monument silhouette.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b153f"/>
+      <stop offset="1" stop-color="#7a3855"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#c56e38"/>
+      <stop offset="1" stop-color="#f1b45d"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="720" fill="url(#sky)"/>
+  <circle cx="920" cy="150" r="66" fill="#f6c66b" opacity=".9"/>
+  <path d="M0 558 C210 500 300 595 495 545 C690 495 850 575 1200 510 V720 H0Z" fill="url(#ground)"/>
+  <g fill="#f6d89e">
+    <path d="M280 550V352h72v-68h60v68h72v198z"/>
+    <path d="M325 352V228l57-95 57 95v124z"/>
+    <path d="M524 550V297h164v253z"/>
+    <path d="M552 297V187l54-84 54 84v110z"/>
+    <path d="M728 550V352h72v-68h60v68h72v198z"/>
+    <path d="M773 352V228l57-95 57 95v124z"/>
+  </g>
+  <g fill="#542746">
+    <path d="M570 550V420c0-48 72-48 72 0v130z"/>
+    <path d="M305 550V438c0-34 44-34 44 0v112z"/>
+    <path d="M415 550V438c0-34 44-34 44 0v112z"/>
+    <path d="M753 550V438c0-34 44-34 44 0v112z"/>
+    <path d="M863 550V438c0-34 44-34 44 0v112z"/>
+  </g>
+  <g fill="#f6d89e" opacity=".8">
+    <circle cx="382" cy="105" r="10"/><circle cx="690" cy="84" r="8"/><circle cx="765" cy="160" r="6"/><circle cx="247" cy="180" r="7"/>
+  </g>
+  <text x="600" y="655" text-anchor="middle" fill="#fff2cf" font-family="Georgia, serif" font-size="34" letter-spacing="7">BHARATVERSE</text>
+</svg>

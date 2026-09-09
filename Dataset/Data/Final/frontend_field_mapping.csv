@@ -1,0 +1,17 @@
+places_js_field,recommended_data_field,current_dataset_status,integration_rule
+id,destination_id,Available,Replace static numeric IDs only after route migration; retain a stable UI slug separately.
+name,name,Available,Safe to populate from master.
+city,city,Unverified,May display with provenance notice only after review.
+description,description,Not Available,Keep editorial/manual; do not generate from datasets.
+history,historical_significance,Not Available,Keep editorial/manual with cited source.
+significance,cultural_significance,Not Available,Keep editorial/manual with cited source.
+bestTime,best_time_to_visit,Not Available,Do not display until sourced.
+related,relationship table,Not Available,Create editorial/curated relation table; do not infer.
+lat/lng,latitude/longitude,Unverified,Use for internal map testing; verify source before public precision claims.
+planning,planning table,Not Available,"Requires verified transport, duration, stay and budget sources."
+hiddenGemScore,hidden_gem_score,Not Available,Do not display current hardcoded score as dataset fact.
+whyRecommended,editorial explanation,Not Available,"Keep as curated content, clearly separate from data-derived recommendation."
+safety/womenSafety,destination_safety,Not Available,"Do not display ratings/support facts until verified, dated data exists."
+accessibility,destination_accessibility,Not Available,Do not display factual claims until verified.
+image,media table,Not Available,Use licensed/editorial media with attribution.
+youtubeVideoId,media table,Not Available,Keep editorial/manual after licensing and relevance review.

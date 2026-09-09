@@ -1,0 +1,145 @@
+monument_name,city,state,latitude,longitude,domestic_visits,foreign_visits,historical_popularity,heritage_category
+Taj Mahal,Agra,Uttar Pradesh,27.1751,78.0421,4429710,645415,Iconic,UNESCO World Heritage Site
+Agra Fort,Agra,Uttar Pradesh,27.1795,78.0211,1627154,386522,Iconic,UNESCO World Heritage Site
+Fatehpur Sikri,Fatehpur Sikri,Uttar Pradesh,27.0937,77.6613,454376,184751,Very High,UNESCO World Heritage Site
+Akbar Tomb Sikandra,Agra,Uttar Pradesh,27.2137,77.9506,229270,19625,High,Tomb
+Mariam tomb Sikandra,Agra,Uttar Pradesh,27.2117,77.9511,22517,414,Low,Tomb
+Itimad-ud-Daulah-Tomb,Agra,Uttar Pradesh,27.1994,78.0294,132800,82692,High,Tomb
+Ram Bagh,Agra,Uttar Pradesh,27.2075,78.0206,84051,355,Medium,Garden
+Mehtab Bagh,Agra,Uttar Pradesh,27.1836,78.0339,178574,62325,High,Garden
+Mausoleum,Agra,Uttar Pradesh,27.1995,78.0293,474462,12536,Very High,Tomb
+Site of Sahet mahet,Shravasti,Uttar Pradesh,27.5079,82.0509,74597,13628,Medium,Archaeological Site
+Residency Building,Lucknow,Uttar Pradesh,26.8607,80.9169,116348,3367,High,Colonial Monument
+Piprahwa & Ganwaria,Siddharthnagar,Uttar Pradesh,27.4886,83.1499,38342,3098,Medium,Archaeological Site
+"Gupta Temple & Varah Temple, Deogarh",Deogarh,Uttar Pradesh,24.5265,78.2382,1348,32,Low,Temple
+Kalinjar Fort,Kalinjar,Uttar Pradesh,24.9575,80.488,81507,137,Medium,Fort
+Rani Lakshmi Bai Mahal,Jhansi,Uttar Pradesh,25.4484,78.5685,15954,50,Low,Palace
+Rani Jhansi Fort,Jhansi,Uttar Pradesh,25.4358,78.5649,361294,705,Very High,Fort
+Lord Cornwallis Tomb,Ghazipur,Uttar Pradesh,25.5941,83.5772,18318,85,Low,Tomb
+"Old Fort (Shahi Fort), Jaunpur",Jaunpur,Uttar Pradesh,25.7479,82.6837,198922,114,High,Fort
+Observatory of Man Singh,Varanasi,Uttar Pradesh,25.3109,83.0107,83059,954,Medium,Observatory
+Excavated Remains at sarnath,"Sarnath, Varanasi",Uttar Pradesh,25.381,83.023,485309,100590,Very High,UNESCO World Heritage Site
+Tomb of Lal Khan,Varanasi,Uttar Pradesh,25.32,83.01,6819,9,Low,Tomb
+Ancient Buddhist Site known as Chaukhandi stupa,"Sarnath, Varanasi",Uttar Pradesh,25.3781,83.0206,55144,5186,Medium,Stupa/Buddhist Site
+"Bekal Fort, Pallikkare, Distt. Kasargod",Kasaragod,Kerala,12.3958,75.0329,334846,728,Very High,Fort
+mattancherry Palace Museum Kochi,Kochi,Kerala,9.9585,76.2593,300465,79355,Very High,Palace
+"Fort, Palakkad, Palakkad",Palakkad,Kerala,10.7867,76.6548,174589,241,High,Fort
+"Fort St. Angelo, Kannur",Kannur,Kerala,11.873,75.3585,234518,3305,High,Fort
+Group of Monuments Mamallapuram,Mahabalipuram,Tamil Nadu,12.6208,80.1945,1260358,53422,Iconic,UNESCO World Heritage Site
+"Gingee Fort , Gingee",Gingee,Tamil Nadu,12.2542,79.4126,107073,1736,High,Fort
+"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",Saluvankuppam,Tamil Nadu,12.6423,80.1943,43733,1063,Medium,Temple
+"Fort on Rock, Dindigual",Dindigul,Tamil Nadu,10.3624,77.9695,24657,94,Low,Fort
+"Moovarkoil, Kodumbalur",Kodumbalur,Tamil Nadu,10.4667,78.6167,19114,46,Low,Temple
+"Rock-cut Jain Temple, Sittannavasasl",Sittanavasal,Tamil Nadu,10.4747,78.7343,31876,188,Medium,Temple
+Tirumalai Nayak's Palace Srivilliputhur,Srivilliputhur,Tamil Nadu,9.5107,77.6331,30046,460,Medium,Palace
+"Natural Caven with inscription eladipattam, Sittannavasal",Sittanavasal,Tamil Nadu,10.4747,78.7343,23928,645,Low,Archaeological Site
+"Fort Museum, Thirumayam",Thirumayam,Tamil Nadu,10.3167,78.7667,294829,5259,Very High,Fort
+Fort Vattakottai,Vattakottai,Tamil Nadu,8.0883,77.5433,159492,340,High,Fort
+Buddhist Caves,Bagh,Madhya Pradesh,22.3667,74.75,19920,42,Low,Cave Monument
+"The palace situated in the fort, Burhanpur",Burhanpur,Madhya Pradesh,21.3009,76.2291,47305,272,Medium,Palace
+Hoshang Shah's Tomb,Mandu,Madhya Pradesh,22.3364,75.3928,130094,2017,High,Tomb
+"Group of monument, Royal Palace Mandu",Mandu,Madhya Pradesh,22.3364,75.3928,408302,2427,Very High,Palace
+Roopmati's Pavilion,Mandu,Madhya Pradesh,22.3306,75.3844,392485,1884,Very High,Palace
+"Buddhist Monuments, Sanchi",Sanchi,Madhya Pradesh,23.4793,77.7398,250706,3986,High,UNESCO World Heritage Site
+Gwalior Fort,Gwalior,Madhya Pradesh,26.2295,78.1694,255734,7744,High,Fort
+"Buddhist cave no 01 to 51 Dhamnar, Tehsil Garoth",Dhamnar,Madhya Pradesh,24.1667,75.35,32578,4,Medium,Cave Monument
+"Badal Mahal Gatwway, Chanderi",Chanderi,Madhya Pradesh,24.7167,78.1333,13708,89,Low,Palace
+Caves 1 t0 20 Udaygiri Vidisha,"Udayagiri, Vidisha",Madhya Pradesh,23.527,77.768,53546,741,Medium,Cave Monument
+Bir Singh Palace Datia,Datia,Madhya Pradesh,25.6654,78.4606,23382,736,Low,Palace
+"Ancient Site and Adamgrah rock shelter, Kalamdi Rasuliya and kishanpur",Hoshangabad (Narmadapuram),Madhya Pradesh,22.75,77.7167,23354,18,Low,Archaeological Site
+"Western Group of Temples, Khajuraho",Khajuraho,Madhya Pradesh,24.8318,79.9199,244995,41741,Very High,UNESCO World Heritage Site
+"Group of Temple Parameshvar shiv and Karan Temple, Amarkantak",Amarkantak,Madhya Pradesh,22.6742,81.755,57408,42,Medium,Temple
+Durga temple complex Aihole,Aihole,Karnataka,16.0217,75.8811,186767,3849,High,Temple
+"Jaina & Vaishnava Cave, Badami",Badami,Karnataka,15.9149,75.6767,372051,6758,Very High,Cave Monument
+Group of Monuments (WH) Pattadakal,Pattadakal,Karnataka,15.9485,75.8161,262144,4310,High,UNESCO World Heritage Site
+"Gol Gumbaz, Vijayapura",Vijayapura (Bijapur),Karnataka,16.8302,75.71,813943,1683,Iconic,Tomb
+"Ibrahim Rauza, Bijapur",Vijayapura (Bijapur),Karnataka,16.828,75.6975,155565,1290,High,Tomb
+"Temples & Sculpture Shed, lakkumdi",Lakkundi,Karnataka,15.3705,75.708,13019,91,Low,Temple
+"Group of Monuments, Hampi",Hampi,Karnataka,15.335,76.46,587238,27006,Very High,UNESCO World Heritage Site
+Bellary Fort,Ballari,Karnataka,15.1394,76.9214,28723,56,Medium,Fort
+Dariya Daulath Bagh,Srirangapatna,Karnataka,12.4222,76.6975,646560,14016,Very High,Palace
+Keshava Temple,Somanathapura,Karnataka,12.2751,76.8763,178425,8653,High,Temple
+Palace of Tipu Sultan,Bengaluru,Karnataka,12.9591,77.5746,256964,10719,Very High,Palace
+Fortress and Temple Chitrudurga Fort,Chitradurga,Karnataka,14.2308,76.4173,338340,1095,Very High,Fort
+Cooch Bihar Palace,Cooch Behar,West Bengal,26.32,89.44,465553,52,Very High,Palace
+Hazarduari Palace,Murshidabad,West Bengal,24.1833,88.2667,674113,1723,Very High,Palace
+Bishnupur Temples,Bishnupur,West Bengal,23.0745,87.3119,154986,505,High,Temple
+Metcelf-Hall,Kolkata,West Bengal,22.5697,88.3453,605,27,Low,Colonial Monument
+"Asokan Rock Edict, Jungadh",Junagadh,Gujarat,21.5222,70.4579,6176,168,Low,Archaeological Site
+"Buddhish Caves, Junagadh",Junagadh,Gujarat,21.5175,70.465,18755,796,Low,Cave Monument
+"Baba Pyara Caves,Junagadh & Khapra Khodiya Caves, Junagadh",Junagadh,Gujarat,21.52,70.47,5858,142,Low,Cave Monument
+"Champaner Monuments, Pavagadh",Champaner,Gujarat,22.487,73.537,59402,1948,Medium,UNESCO World Heritage Site
+"Sun temple, Modhera",Modhera,Gujarat,23.5859,72.1258,208028,3732,High,Temple
+"Rani Ki-Vav, Patan",Patan,Gujarat,23.8595,72.1023,337134,3816,Very High,UNESCO World Heritage Site
+"Rudabai Step Well, Adalaj",Adalaj,Gujarat,23.1667,72.5833,388042,7907,Very High,Stepwell
+"Sun Temple, Konark",Konark,Odisha,19.8876,86.0945,1997427,5294,Iconic,UNESCO World Heritage Site
+Ancient Remains on both Udaigiri & Khandagiri Hills,Bhubaneswar,Odisha,20.2596,85.783,311115,2489,Very High,Cave Monument
+Rajarani Temple,Bhubaneswar,Odisha,20.2663,85.8383,16916,506,Low,Temple
+The Hill Containing Many Valuable Sculptures and Images Ratnagiri,Ratnagiri,Odisha,20.6167,86.3333,34562,571,Medium,Stupa/Buddhist Site
+Ruins of Buddhist Temples and Images lalitgiri,Lalitgiri,Odisha,20.63,86.25,44573,389,Medium,Stupa/Buddhist Site
+Ajanta Caves,Aurangabad (Chhatrapati Sambhajinagar),Maharashtra,20.5519,75.7033,273344,15899,Very High,UNESCO World Heritage Site
+Ellora Caves,Aurangabad (Chhatrapati Sambhajinagar),Maharashtra,20.0258,75.178,1259261,21426,Iconic,UNESCO World Heritage Site
+Tomb of Rabia Durani (Bibi ka Maqbara),Aurangabad (Chhatrapati Sambhajinagar),Maharashtra,19.9095,75.304,1111778,9530,Iconic,Tomb
+Daulatabad Fort,Aurangabad (Chhatrapati Sambhajinagar),Maharashtra,19.9438,75.2183,515935,5729,Very High,Fort
+Pandulena Caves,Nashik,Maharashtra,19.9615,73.7503,202871,1128,High,Cave Monument
+Aurangabad Caves,Aurangabad (Chhatrapati Sambhajinagar),Maharashtra,19.907,75.326,182032,2690,High,Cave Monument
+Elephanta Caves,Mumbai,Maharashtra,18.9633,72.9315,686862,37891,Very High,UNESCO World Heritage Site
+Buddhist Caves Kanheri,Mumbai,Maharashtra,19.2147,72.9106,401808,12106,Very High,Cave Monument
+Shaniwarwada,Pune,Maharashtra,18.5195,73.8553,1128072,8505,Iconic,Fort
+Aga  Khan Palace Building,Pune,Maharashtra,18.5606,73.9014,219939,9264,High,Palace
+"Cave, Temple and Inscriptions, Junaar, Lenyadri",Junnar,Maharashtra,19.1928,73.8836,354946,105,Very High,Cave Monument
+"Caves, Temples and inscriptions Karla",Karla,Maharashtra,18.7833,73.4833,219758,2068,High,Cave Monument
+"Cave Temple & Inscriptions, Bhaja",Bhaja,Maharashtra,18.7333,73.4333,80319,1872,Medium,Cave Monument
+Raigad Fort,Raigad,Maharashtra,18.236,73.4406,218338,82,High,Fort
+"Kolaba Fort, Alibag",Alibag,Maharashtra,18.6414,72.8258,112405,112,High,Fort
+"Old Fort, Sholapur",Solapur,Maharashtra,17.6805,75.9335,62238,45,Medium,Fort
+"Janjira Fort, Murd",Murud,Maharashtra,18.009,72.949,253315,151,High,Fort
+Kondiote Caves,Karjat,Maharashtra,18.7942,73.4419,41490,591,Medium,Cave Monument
+Lohgad Fort,Lonavala,Maharashtra,18.7108,73.4797,161651,579,High,Fort
+Gawilgarh Fort,Chikhaldara,Maharashtra,21.3667,77.3167,43795,11,Medium,Fort
+"Ancient Buddhist Remains comprising monastery stupa, rock sculptures, inscriptions ect Mansur",Mansar,Maharashtra,21.3833,79.2167,1596,65,Low,Stupa/Buddhist Site
+Suraj Kund,Faridabad,Haryana,28.47,77.28,91447,72,Medium,Archaeological Site
+Sheikh Chilli's Tomb,Kurukshetra (Thanesar),Haryana,29.9695,76.8783,39763,46,Medium,Tomb
+Khan-I-Khana,Delhi,Delhi,28.5895,77.2453,1782,45,Low,Tomb
+Sultanghari Tomb,Delhi,Delhi,28.523,77.159,530,6,Low,Tomb
+Tughluqabad,Delhi,Delhi,28.5083,77.2578,76135,908,Medium,Fort
+Red Fort,Delhi,Delhi,28.6562,77.241,2200044,91364,Iconic,UNESCO World Heritage Site
+Humayun Tomb,Delhi,Delhi,28.5933,77.2507,658318,202288,Iconic,UNESCO World Heritage Site
+Qutub Minar,Delhi,Delhi,28.5245,77.1855,2048146,255318,Iconic,UNESCO World Heritage Site
+Hauzkhas,Delhi,Delhi,28.5535,77.1892,145544,2625,High,Archaeological Site
+Jantar Mantar,Delhi,Delhi,28.627,77.2166,203197,6516,High,Observatory
+Safdarjung Tomb,Delhi,Delhi,28.5913,77.2122,72938,15977,Medium,Tomb
+Kotla Feroz Shah,Delhi,Delhi,28.6383,77.2419,89397,810,Medium,Fort
+Purana Qila,Delhi,Delhi,28.6091,77.2432,662300,5493,Very High,Fort
+Ahom Raja's Palace,Sivasagar,Assam,26.985,94.638,44700,175,Medium,Palace
+"Kareghar of Ahom Kings, Sibasagar",Sivasagar,Assam,26.9989,94.6425,119912,577,High,Palace
+"Ranghar Pavillion, Jaisagar",Sivasagar,Assam,26.9814,94.6389,69063,546,Medium,Palace
+Bishnudol,Sivasagar,Assam,26.9833,94.6333,21062,118,Low,Temple
+"Group of four MaidansCharaideo, Sibasagar",Charaideo,Assam,27.0333,94.8167,23111,141,Low,Archaeological Site
+Upper Fort Aguada,Candolim,Goa,15.4925,73.7738,837898,8104,Iconic,Fort
+Charminar,Hyderabad,Telangana,17.3616,78.4747,1151933,7803,Iconic,Monument
+Golconda,Hyderabad,Telangana,17.3833,78.4011,1630419,20572,Iconic,Fort
+Warangal,Warangal,Telangana,17.9153,79.614,92690,277,Medium,Fort
+Ancient Site Bhangarh,Bhangarh,Rajasthan,27.0952,76.2825,190833,1893,High,Archaeological Site
+Baori at Abhaneri,Abhaneri,Rajasthan,27.0086,76.6058,66821,85732,High,Stepwell
+Deeg Bhawan,Deeg,Rajasthan,27.4719,77.3253,28510,1067,Medium,Palace
+Chittaurgarh Fort,Chittorgarh,Rajasthan,24.8887,74.6269,565133,15188,Very High,UNESCO World Heritage Site
+Kumbhalgarh Fort,Kumbhalgarh,Rajasthan,25.1487,73.5847,495276,11208,Very High,UNESCO World Heritage Site
+Marble Pavillion and balustrade on the Ana Sagar bund and ruins of the marble Hammam Behind the Ana sagar Bund,Ajmer,Rajasthan,26.4692,74.6544,241299,98,High,Pavilion
+Ancient Palace Leh,Leh,Ladakh,34.1667,77.5852,56639,5671,Medium,Palace
+"Remains of Patliputra Site of Mauryan Palace, Kumrahar",Patna,Bihar,25.6067,85.1547,109962,207,High,Archaeological Site
+"Ancient site of Vaishali, Kolhua",Vaishali,Bihar,25.9833,85.1333,89631,12962,Medium,Archaeological Site
+Excavated Remains at Nalanda,Nalanda,Bihar,25.1358,85.4436,437506,26903,Very High,UNESCO World Heritage Site
+Ancient Site of Vikramshila Antichak,Bhagalpur,Bihar,25.3167,87.2667,65573,436,Medium,Archaeological Site
+Sher Shah's Tomb,Sasaram,Bihar,24.9505,84.0201,208177,153,High,Tomb
+Temple of Laxman and Old sites including sculptures sirpur,Sirpur,Chhattisgarh,21.3333,82.1833,63759,96,Medium,Temple
+"Ruined Fort, kangra",Kangra,Himachal Pradesh,32.1023,76.2694,91306,1758,Medium,Fort
+Rock-cut Temples and Sculptures,Masrur,Himachal Pradesh,32.0833,76.2833,73439,1709,Medium,Temple
+"Palace Complex at Ramnagar, Distt. Udhampur",Udhampur,Jammu and Kashmir,32.9167,75.15,6610,0,Low,Palace
+"Avantiswamin Temple, Avantipur, District Pulwama",Avantipora,Jammu and Kashmir,33.9167,75.0167,9939,32,Low,Temple
+"Group of Temples at kiramchi, District Udhampur",Udhampur,Jammu and Kashmir,32.9,75.15,5731,4,Low,Temple
+Amaravati mahastupa,Amaravati,Andhra Pradesh,16.573,80.358,8038,285,Low,Stupa/Buddhist Site
+Undavalli caves,Undavalli,Andhra Pradesh,16.509,80.598,109307,494,High,Cave Monument
+Nagarjuna Kunda,Nagarjunakonda,Andhra Pradesh,16.5333,79.2333,19762,35,Low,Archaeological Site
+Chandragiri Monument,Chandragiri,Andhra Pradesh,13.5833,79.3167,103489,109,High,Fort
+"Buddhist Remains on hill top at Guntupalli, W.G.District",Guntupalli,Andhra Pradesh,17.2667,81.1,22353,85,Low,Stupa/Buddhist Site

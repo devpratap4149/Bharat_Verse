@@ -1,0 +1,402 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "BharatVerse Master Destinations",
+  "description": "One row per source-backed destination. Missing values use NULL or Not Available; scores require documented evidence.",
+  "required": [
+    "destination_id",
+    "name",
+    "country",
+    "source",
+    "data_confidence"
+  ],
+  "properties": {
+    "destination_id": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "name": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "alternative_names": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "city": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "district": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "state": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "country": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "latitude": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "longitude": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "destination_type": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "heritage_category": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "description": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "historical_significance": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "cultural_significance": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "best_time_to_visit": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "recommended_duration": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "estimated_budget": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "budget_category": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "crowd_level": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "hidden_gem_score": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Must be NULL unless transparent, source-supported methodology is documented."
+    },
+    "tourism_popularity": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "visitor_count": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "domestic_visitors": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "international_visitors": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "accessibility_score": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Must be NULL without verified accessibility indicators and methodology."
+    },
+    "senior_friendly": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "wheelchair_accessible": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "walking_difficulty": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "public_transport_available": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "nearest_transport": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "nearest_hospital": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "nearest_police_station": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "network_availability": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "lighting_condition": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "women_safety_score": {
+      "type": [
+        "number",
+        "null"
+      ],
+      "minimum": 0,
+      "maximum": 100,
+      "description": "Must be NULL without verified safety indicators and methodology."
+    },
+    "women_safety_notes": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "emergency_support": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "nearby_safe_stay": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "sanitary_facilities": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "local_artisan_presence": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "local_crafts": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "local_food": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "cultural_experiences": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "responsible_tourism_notes": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "source": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "source_url": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "source_year": {
+      "type": [
+        "string",
+        "number",
+        "integer",
+        "null"
+      ]
+    },
+    "data_confidence": {
+      "type": "string",
+      "enum": [
+        "HIGH",
+        "MEDIUM",
+        "LOW",
+        "NOT_AVAILABLE"
+      ]
+    }
+  }
+}

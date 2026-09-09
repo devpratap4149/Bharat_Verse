@@ -1,0 +1,145 @@
+destination_id,destination_name,senior_friendly,wheelchair_accessible,walking_difficulty,stairs_present,accessible_toilets,seating_available,parking_available,accessible_transport,accessibility_notes,accessibility_source,accessibility_source_url,accessibility_year,accessibility_confidence
+BV-ASI-0001,Aga  Khan Palace Building,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0002,Agra Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0003,Ahom Raja's Palace,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0004,Ajanta Caves,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0005,Akbar Tomb Sikandra,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0006,Amaravati mahastupa,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0007,"Ancient Buddhist Remains comprising monastery stupa, rock sculptures, inscriptions ect Mansur",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0008,Ancient Buddhist Site known as Chaukhandi stupa,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0009,Ancient Palace Leh,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0010,Ancient Remains on both Udaigiri & Khandagiri Hills,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0011,"Ancient Site and Adamgrah rock shelter, Kalamdi Rasuliya and kishanpur",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0012,Ancient Site Bhangarh,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0013,"Ancient site of Vaishali, Kolhua",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0014,Ancient Site of Vikramshila Antichak,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0015,"Asokan Rock Edict, Jungadh",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0016,Aurangabad Caves,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0017,"Avantiswamin Temple, Avantipur, District Pulwama",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0018,"Baba Pyara Caves,Junagadh & Khapra Khodiya Caves, Junagadh",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0019,"Badal Mahal Gatwway, Chanderi",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0020,Baori at Abhaneri,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0021,"Bekal Fort, Pallikkare, Distt. Kasargod",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0022,Bellary Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0023,Bir Singh Palace Datia,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0024,Bishnudol,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0025,Bishnupur Temples,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0026,"Buddhish Caves, Junagadh",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0027,"Buddhist cave no 01 to 51 Dhamnar, Tehsil Garoth",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0028,Buddhist Caves,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0029,Buddhist Caves Kanheri,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0030,"Buddhist Monuments, Sanchi",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0031,"Buddhist Remains on hill top at Guntupalli, W.G.District",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0032,Caves 1 t0 20 Udaygiri Vidisha,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0033,"Caves, Temples and inscriptions Karla",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0034,"Cave, Temple and Inscriptions, Junaar, Lenyadri",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0035,"Cave Temple & Inscriptions, Bhaja",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0036,"Champaner Monuments, Pavagadh",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0037,Chandragiri Monument,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0038,Charminar,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0039,Chittaurgarh Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0040,Cooch Bihar Palace,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0041,Dariya Daulath Bagh,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0042,Daulatabad Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0043,Deeg Bhawan,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0044,Durga temple complex Aihole,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0045,Elephanta Caves,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0046,Ellora Caves,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0047,Excavated Remains at Nalanda,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0048,Excavated Remains at sarnath,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0049,Fatehpur Sikri,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0050,"Fort Museum, Thirumayam",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0051,"Fort on Rock, Dindigual",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0052,"Fort, Palakkad, Palakkad",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0053,Fortress and Temple Chitrudurga Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0054,"Fort St. Angelo, Kannur",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0055,Fort Vattakottai,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0056,Gawilgarh Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0057,"Gingee Fort , Gingee",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0058,Golconda,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0059,"Gol Gumbaz, Vijayapura",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0060,"Group of four MaidansCharaideo, Sibasagar",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0061,"Group of monument, Royal Palace Mandu",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0062,"Group of Monuments, Hampi",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0063,Group of Monuments Mamallapuram,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0064,Group of Monuments (WH) Pattadakal,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0065,"Group of Temple Parameshvar shiv and Karan Temple, Amarkantak",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0066,"Group of Temples at kiramchi, District Udhampur",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0067,"Gupta Temple & Varah Temple, Deogarh",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0068,Gwalior Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0069,Hauzkhas,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0070,Hazarduari Palace,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0071,Hoshang Shah's Tomb,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0072,Humayun Tomb,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0073,"Ibrahim Rauza, Bijapur",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0074,Itimad-ud-Daulah-Tomb,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0075,"Jaina & Vaishnava Cave, Badami",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0076,"Janjira Fort, Murd",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0077,Jantar Mantar,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0078,Kalinjar Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0079,"Kareghar of Ahom Kings, Sibasagar",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0080,Keshava Temple,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0081,Khan-I-Khana,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0082,"Kolaba Fort, Alibag",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0083,Kondiote Caves,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0084,Kotla Feroz Shah,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0085,Kumbhalgarh Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0086,Lohgad Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0087,Lord Cornwallis Tomb,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0088,Marble Pavillion and balustrade on the Ana Sagar bund and ruins of the marble Hammam Behind the Ana sagar Bund,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0089,Mariam tomb Sikandra,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0090,mattancherry Palace Museum Kochi,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0091,Mausoleum,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0092,Mehtab Bagh,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0093,Metcelf-Hall,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0094,"Moovarkoil, Kodumbalur",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0095,Nagarjuna Kunda,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0096,"Natural Caven with inscription eladipattam, Sittannavasal",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0097,Observatory of Man Singh,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0098,"Old Fort (Shahi Fort), Jaunpur",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0099,"Old Fort, Sholapur",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0100,"Palace Complex at Ramnagar, Distt. Udhampur",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0101,Palace of Tipu Sultan,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0102,Pandulena Caves,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0103,Piprahwa & Ganwaria,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0104,Purana Qila,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0105,Qutub Minar,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0106,Raigad Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0107,Rajarani Temple,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0108,Ram Bagh,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0109,"Ranghar Pavillion, Jaisagar",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0110,Rani Jhansi Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0111,"Rani Ki-Vav, Patan",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0112,Rani Lakshmi Bai Mahal,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0113,Red Fort,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0114,"Remains of Patliputra Site of Mauryan Palace, Kumrahar",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0115,Residency Building,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0116,"Rock-cut Jain Temple, Sittannavasasl",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0117,Rock-cut Temples and Sculptures,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0118,Roopmati's Pavilion,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0119,"Rudabai Step Well, Adalaj",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0120,"Ruined Fort, kangra",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0121,Ruins of Buddhist Temples and Images lalitgiri,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0122,Safdarjung Tomb,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0123,Shaniwarwada,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0124,Sheikh Chilli's Tomb,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0125,Sher Shah's Tomb,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0126,Site of Sahet mahet,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0127,Sultanghari Tomb,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0128,"Sun Temple, Konark",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0129,"Sun temple, Modhera",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0130,Suraj Kund,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0131,Taj Mahal,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0132,Temple of Laxman and Old sites including sculptures sirpur,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0133,"Temples & Sculpture Shed, lakkumdi",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0134,The Hill Containing Many Valuable Sculptures and Images Ratnagiri,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0135,"The palace situated in the fort, Burhanpur",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0136,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0137,Tirumalai Nayak's Palace Srivilliputhur,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0138,Tomb of Lal Khan,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0139,Tomb of Rabia Durani (Bibi ka Maqbara),NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0140,Tughluqabad,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0141,Undavalli caves,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0142,Upper Fort Aguada,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0143,Warangal,NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE
+BV-ASI-0144,"Western Group of Temples, Khajuraho",NULL,NULL,Not Available,NULL,NULL,NULL,NULL,NULL,DATA NOT AVAILABLE in supplied sources.,Not Available,Not Available,Not Available,NOT_AVAILABLE

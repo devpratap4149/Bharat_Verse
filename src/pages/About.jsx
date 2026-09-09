@@ -259,6 +259,78 @@ export default function About() {
       </section>
 
 
+
+
+      
+{/* =================================
+    TEAM BHARATVERSE
+================================= */}
+<section className="about-team">
+  <div className="about-team-heading">
+    <p className="about-label">THE TEAM BEHIND BHARATVERSE</p>
+
+    <h2>
+      Built by <span>Team BharatVerse.</span>
+    </h2>
+
+    <p>
+      BharatVerse is developed by a team of students working together
+      to combine technology, cultural discovery and responsible tourism.
+    </p>
+  </div>
+
+  <div className="team-grid">
+
+    <div className="team-card">
+      <div className="team-number">01</div>
+      <h3>Dev Pratap Singh</h3>
+      <p>Team Member</p>
+    </div>
+
+    <div className="team-card">
+      <div className="team-number">02</div>
+      <h3>Vatsalya</h3>
+      <p>Team Member</p>
+    </div>
+
+    <div className="team-card">
+      <div className="team-number">03</div>
+      <h3>Deeksha</h3>
+      <p>Team Member</p>
+    </div>
+
+    <div className="team-card">
+      <div className="team-number">04</div>
+      <h3>Aarohi</h3>
+      <p>Team Member</p>
+    </div>
+
+    {/* <div className="team-card">
+      <div className="team-number">05</div>
+      <h3>Esha</h3>
+      <p>Team Member</p>
+    </div> */}
+
+    <div className="team-card">
+      <div className="team-number">06</div>
+      <h3>Aman</h3>
+      <p>Team Member</p>
+    </div>
+
+  </div>
+
+  <div className="team-authorization">
+    <p>
+      <strong>BharatVerse 2.0</strong>
+    </p>
+    <p>
+      Developed by Team BharatVerse · IILM University, Greater Noida
+    </p>
+  </div>
+</section>
+
+
+
       {/* =================================
           CTA
       ================================= */}

@@ -1272,3 +1272,241 @@
   }
 
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* =========================================
+   SAFE YATRA PAGE
+   BharatVerse Dark + Golden Theme
+========================================= */
+
+.safe-yatra-page {
+  min-height: 100vh;
+  padding: 120px 7% 90px;
+
+  background: #0b0b0b;
+  color: #ffffff;
+}
+
+
+/* =========================================
+   HEADER
+========================================= */
+
+.safe-yatra-header {
+  max-width: 900px;
+  margin: 0 auto 60px;
+
+  text-align: center;
+}
+
+.safe-yatra-header > p:first-child {
+  margin-bottom: 15px;
+
+  color: #e99a32;
+
+  font-size: 12px;
+  font-weight: 700;
+
+  letter-spacing: 3px;
+}
+
+.safe-yatra-header h1 {
+  margin: 0;
+
+  font-size: clamp(45px, 6vw, 75px);
+  line-height: 1.05;
+
+  font-weight: 800;
+}
+
+.safe-yatra-header h1 span {
+  color: #e99a32;
+}
+
+.safe-yatra-description {
+  max-width: 650px;
+
+  margin: 22px auto 0;
+
+  color: #a9a9a9;
+
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+
+/* =========================================
+   IMAGE GRID
+========================================= */
+
+.safe-yatra-grid {
+  max-width: 1150px;
+
+  margin: auto;
+
+  display: grid;
+
+  grid-template-columns: repeat(3, 1fr);
+
+  gap: 24px;
+}
+
+
+/* =========================================
+   IMAGE CARD
+========================================= */
+
+.safe-yatra-card {
+  position: relative;
+
+  height: 390px;
+
+  display: block;
+
+  overflow: hidden;
+
+  border-radius: 18px;
+
+  background: #151515;
+
+  border: 1px solid rgba(255, 255, 255, 0.08);
+
+  text-decoration: none;
+
+  transition:
+    transform 0.3s ease,
+    border-color 0.3s ease,
+    box-shadow 0.3s ease;
+}
+
+.safe-yatra-card:hover {
+  transform: translateY(-7px);
+
+  border-color: rgba(233, 154, 50, 0.45);
+
+  box-shadow:
+    0 20px 45px rgba(0, 0, 0, 0.55);
+}
+
+
+/* =========================================
+   IMAGE
+========================================= */
+
+.safe-yatra-card img {
+  width: 100%;
+  height: 100%;
+
+  display: block;
+
+  object-fit: cover;
+
+  transition: transform 0.5s ease;
+}
+
+.safe-yatra-card:hover img {
+  transform: scale(1.06);
+}
+
+
+/* =========================================
+   TABLET
+========================================= */
+
+@media (max-width: 900px) {
+
+  .safe-yatra-page {
+    padding: 100px 5% 70px;
+  }
+
+  .safe-yatra-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+}
+
+
+/* =========================================
+   MOBILE
+========================================= */
+
+@media (max-width: 600px) {
+
+  .safe-yatra-page {
+    padding: 80px 20px 60px;
+  }
+
+  .safe-yatra-header {
+    margin-bottom: 40px;
+  }
+
+  .safe-yatra-header h1 {
+    font-size: 42px;
+  }
+
+  .safe-yatra-description {
+    font-size: 14px;
+  }
+
+  .safe-yatra-grid {
+    grid-template-columns: 1fr;
+
+    gap: 18px;
+  }
+
+  .safe-yatra-card {
+    height: 300px;
+  }
+
+}

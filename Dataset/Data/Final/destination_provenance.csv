@@ -1,0 +1,577 @@
+destination_id,field_name,source,source_type,source_url,source_date,verification_status,confidence
+BV-ASI-0001,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0001,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0001,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0001,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0002,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0002,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0002,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0002,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0003,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0003,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0003,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0003,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0004,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0004,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0004,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0004,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0005,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0005,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0005,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0005,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0006,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0006,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0006,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0006,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0007,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0007,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0007,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0007,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0008,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0008,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0008,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0008,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0009,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0009,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0009,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0009,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0010,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0010,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0010,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0010,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0011,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0011,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0011,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0011,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0012,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0012,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0012,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0012,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0013,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0013,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0013,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0013,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0014,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0014,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0014,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0014,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0015,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0015,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0015,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0015,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0016,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0016,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0016,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0016,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0017,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0017,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0017,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0017,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0018,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0018,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0018,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0018,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0019,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0019,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0019,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0019,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0020,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0020,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0020,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0020,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0021,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0021,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0021,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0021,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0022,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0022,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0022,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0022,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0023,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0023,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0023,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0023,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0024,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0024,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0024,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0024,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0025,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0025,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0025,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0025,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0026,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0026,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0026,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0026,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0027,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0027,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0027,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0027,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0028,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0028,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0028,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0028,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0029,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0029,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0029,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0029,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0030,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0030,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0030,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0030,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0031,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0031,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0031,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0031,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0032,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0032,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0032,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0032,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0033,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0033,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0033,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0033,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0034,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0034,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0034,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0034,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0035,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0035,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0035,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0035,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0036,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0036,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0036,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0036,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0037,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0037,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0037,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0037,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0038,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0038,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0038,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0038,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0039,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0039,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0039,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0039,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0040,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0040,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0040,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0040,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0041,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0041,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0041,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0041,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0042,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0042,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0042,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0042,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0043,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0043,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0043,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0043,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0044,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0044,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0044,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0044,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0045,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0045,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0045,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0045,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0046,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0046,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0046,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0046,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0047,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0047,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0047,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0047,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0048,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0048,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0048,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0048,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0049,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0049,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0049,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0049,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0050,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0050,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0050,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0050,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0051,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0051,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0051,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0051,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0052,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0052,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0052,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0052,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0053,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0053,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0053,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0053,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0054,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0054,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0054,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0054,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0055,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0055,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0055,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0055,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0056,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0056,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0056,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0056,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0057,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0057,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0057,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0057,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0058,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0058,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0058,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0058,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0059,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0059,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0059,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0059,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0060,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0060,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0060,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0060,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0061,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0061,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0061,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0061,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0062,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0062,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0062,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0062,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0063,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0063,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0063,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0063,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0064,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0064,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0064,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0064,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0065,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0065,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0065,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0065,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0066,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0066,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0066,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0066,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0067,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0067,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0067,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0067,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0068,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0068,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0068,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0068,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0069,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0069,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0069,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0069,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0070,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0070,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0070,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0070,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0071,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0071,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0071,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0071,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0072,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0072,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0072,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0072,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0073,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0073,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0073,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0073,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0074,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0074,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0074,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0074,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0075,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0075,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0075,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0075,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0076,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0076,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0076,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0076,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0077,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0077,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0077,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0077,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0078,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0078,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0078,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0078,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0079,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0079,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0079,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0079,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0080,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0080,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0080,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0080,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0081,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0081,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0081,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0081,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0082,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0082,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0082,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0082,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0083,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0083,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0083,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0083,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0084,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0084,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0084,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0084,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0085,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0085,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0085,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0085,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0086,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0086,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0086,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0086,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0087,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0087,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0087,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0087,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0088,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0088,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0088,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0088,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0089,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0089,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0089,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0089,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0090,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0090,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0090,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0090,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0091,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0091,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0091,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0091,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0092,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0092,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0092,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0092,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0093,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0093,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0093,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0093,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0094,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0094,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0094,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0094,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0095,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0095,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0095,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0095,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0096,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0096,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0096,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0096,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0097,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0097,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0097,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0097,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0098,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0098,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0098,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0098,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0099,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0099,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0099,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0099,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0100,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0100,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0100,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0100,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0101,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0101,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0101,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0101,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0102,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0102,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0102,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0102,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0103,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0103,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0103,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0103,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0104,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0104,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0104,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0104,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0105,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0105,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0105,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0105,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0106,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0106,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0106,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0106,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0107,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0107,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0107,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0107,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0108,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0108,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0108,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0108,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0109,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0109,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0109,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0109,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0110,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0110,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0110,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0110,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0111,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0111,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0111,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0111,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0112,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0112,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0112,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0112,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0113,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0113,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0113,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0113,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0114,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0114,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0114,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0114,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0115,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0115,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0115,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0115,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0116,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0116,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0116,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0116,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0117,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0117,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0117,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0117,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0118,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0118,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0118,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0118,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0119,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0119,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0119,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0119,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0120,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0120,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0120,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0120,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0121,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0121,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0121,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0121,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0122,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0122,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0122,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0122,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0123,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0123,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0123,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0123,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0124,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0124,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0124,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0124,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0125,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0125,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0125,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0125,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0126,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0126,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0126,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0126,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0127,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0127,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0127,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0127,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0128,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0128,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0128,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0128,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0129,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0129,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0129,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0129,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0130,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0130,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0130,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0130,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0131,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0131,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0131,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0131,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0132,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0132,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0132,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0132,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0133,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0133,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0133,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0133,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0134,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0134,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0134,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0134,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0135,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0135,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0135,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0135,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0136,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0136,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0136,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0136,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0137,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0137,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0137,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0137,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0138,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0138,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0138,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0138,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0139,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0139,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0139,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0139,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0140,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0140,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0140,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0140,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0141,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0141,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0141,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0141,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0142,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0142,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0142,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0142,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0143,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,VERIFIED,HIGH
+BV-ASI-0143,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0143,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0143,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE
+BV-ASI-0144,name; destination_type,CPM List 2024_(3698).pdf,Official ASI PDF,Not Available,2024 label; PDF metadata created 2025-04-08,UNVERIFIED,NOT_AVAILABLE
+BV-ASI-0144,domestic_visitors; international_visitors; visitor_count,asi_monuments_clean.csv,Processed CSV,Not Available,2019-20 visitor fields,UNVERIFIED,MEDIUM
+BV-ASI-0144,city; state; latitude; longitude; heritage_category; tourism_popularity,bharatverse_monuments.csv,Processed CSV,Not Available,Not Available,UNVERIFIED,LOW
+BV-ASI-0144,women_safety_score; accessibility_score; hidden_gem_score,Not Available,Not Available,Not Available,Not Available,NOT_AVAILABLE,NOT_AVAILABLE

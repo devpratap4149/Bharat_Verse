@@ -1,0 +1,824 @@
+destination_id,destination_name,severity,issue_category,recommended_action,status
+BV-ASI-0001,Aga  Khan Palace Building,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0001,Aga  Khan Palace Building,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0001,Aga  Khan Palace Building,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0001,Aga  Khan Palace Building,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0001,Aga  Khan Palace Building,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0002,Agra Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0002,Agra Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0002,Agra Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0002,Agra Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0002,Agra Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0003,Ahom Raja's Palace,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0003,Ahom Raja's Palace,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0003,Ahom Raja's Palace,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0003,Ahom Raja's Palace,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0003,Ahom Raja's Palace,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0003,Ahom Raja's Palace,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0004,Ajanta Caves,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0004,Ajanta Caves,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0004,Ajanta Caves,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0004,Ajanta Caves,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0004,Ajanta Caves,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0005,Akbar Tomb Sikandra,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0005,Akbar Tomb Sikandra,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0005,Akbar Tomb Sikandra,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0005,Akbar Tomb Sikandra,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0005,Akbar Tomb Sikandra,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0005,Akbar Tomb Sikandra,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0006,Amaravati mahastupa,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0006,Amaravati mahastupa,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0006,Amaravati mahastupa,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0006,Amaravati mahastupa,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0006,Amaravati mahastupa,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0006,Amaravati mahastupa,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0007,"Ancient Buddhist Remains comprising monastery stupa, rock sculptures, inscriptions ect Mansur",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0007,"Ancient Buddhist Remains comprising monastery stupa, rock sculptures, inscriptions ect Mansur",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0007,"Ancient Buddhist Remains comprising monastery stupa, rock sculptures, inscriptions ect Mansur",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0007,"Ancient Buddhist Remains comprising monastery stupa, rock sculptures, inscriptions ect Mansur",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0007,"Ancient Buddhist Remains comprising monastery stupa, rock sculptures, inscriptions ect Mansur",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0007,"Ancient Buddhist Remains comprising monastery stupa, rock sculptures, inscriptions ect Mansur",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0008,Ancient Buddhist Site known as Chaukhandi stupa,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0008,Ancient Buddhist Site known as Chaukhandi stupa,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0008,Ancient Buddhist Site known as Chaukhandi stupa,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0008,Ancient Buddhist Site known as Chaukhandi stupa,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0008,Ancient Buddhist Site known as Chaukhandi stupa,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0009,Ancient Palace Leh,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0009,Ancient Palace Leh,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0009,Ancient Palace Leh,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0009,Ancient Palace Leh,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0009,Ancient Palace Leh,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0009,Ancient Palace Leh,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0010,Ancient Remains on both Udaigiri & Khandagiri Hills,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0010,Ancient Remains on both Udaigiri & Khandagiri Hills,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0010,Ancient Remains on both Udaigiri & Khandagiri Hills,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0010,Ancient Remains on both Udaigiri & Khandagiri Hills,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0010,Ancient Remains on both Udaigiri & Khandagiri Hills,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0010,Ancient Remains on both Udaigiri & Khandagiri Hills,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0011,"Ancient Site and Adamgrah rock shelter, Kalamdi Rasuliya and kishanpur",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0011,"Ancient Site and Adamgrah rock shelter, Kalamdi Rasuliya and kishanpur",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0011,"Ancient Site and Adamgrah rock shelter, Kalamdi Rasuliya and kishanpur",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0011,"Ancient Site and Adamgrah rock shelter, Kalamdi Rasuliya and kishanpur",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0011,"Ancient Site and Adamgrah rock shelter, Kalamdi Rasuliya and kishanpur",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0011,"Ancient Site and Adamgrah rock shelter, Kalamdi Rasuliya and kishanpur",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0012,Ancient Site Bhangarh,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0012,Ancient Site Bhangarh,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0012,Ancient Site Bhangarh,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0012,Ancient Site Bhangarh,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0012,Ancient Site Bhangarh,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0013,"Ancient site of Vaishali, Kolhua",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0013,"Ancient site of Vaishali, Kolhua",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0013,"Ancient site of Vaishali, Kolhua",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0013,"Ancient site of Vaishali, Kolhua",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0013,"Ancient site of Vaishali, Kolhua",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0013,"Ancient site of Vaishali, Kolhua",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0014,Ancient Site of Vikramshila Antichak,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0014,Ancient Site of Vikramshila Antichak,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0014,Ancient Site of Vikramshila Antichak,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0014,Ancient Site of Vikramshila Antichak,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0014,Ancient Site of Vikramshila Antichak,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0014,Ancient Site of Vikramshila Antichak,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0015,"Asokan Rock Edict, Jungadh",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0015,"Asokan Rock Edict, Jungadh",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0015,"Asokan Rock Edict, Jungadh",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0015,"Asokan Rock Edict, Jungadh",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0015,"Asokan Rock Edict, Jungadh",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0015,"Asokan Rock Edict, Jungadh",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0016,Aurangabad Caves,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0016,Aurangabad Caves,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0016,Aurangabad Caves,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0016,Aurangabad Caves,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0016,Aurangabad Caves,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0017,"Avantiswamin Temple, Avantipur, District Pulwama",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0017,"Avantiswamin Temple, Avantipur, District Pulwama",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0017,"Avantiswamin Temple, Avantipur, District Pulwama",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0017,"Avantiswamin Temple, Avantipur, District Pulwama",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0017,"Avantiswamin Temple, Avantipur, District Pulwama",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0017,"Avantiswamin Temple, Avantipur, District Pulwama",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0018,"Baba Pyara Caves,Junagadh & Khapra Khodiya Caves, Junagadh",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0018,"Baba Pyara Caves,Junagadh & Khapra Khodiya Caves, Junagadh",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0018,"Baba Pyara Caves,Junagadh & Khapra Khodiya Caves, Junagadh",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0018,"Baba Pyara Caves,Junagadh & Khapra Khodiya Caves, Junagadh",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0018,"Baba Pyara Caves,Junagadh & Khapra Khodiya Caves, Junagadh",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0018,"Baba Pyara Caves,Junagadh & Khapra Khodiya Caves, Junagadh",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0019,"Badal Mahal Gatwway, Chanderi",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0019,"Badal Mahal Gatwway, Chanderi",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0019,"Badal Mahal Gatwway, Chanderi",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0019,"Badal Mahal Gatwway, Chanderi",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0019,"Badal Mahal Gatwway, Chanderi",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0019,"Badal Mahal Gatwway, Chanderi",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0020,Baori at Abhaneri,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0020,Baori at Abhaneri,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0020,Baori at Abhaneri,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0020,Baori at Abhaneri,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0020,Baori at Abhaneri,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0020,Baori at Abhaneri,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0021,"Bekal Fort, Pallikkare, Distt. Kasargod",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0021,"Bekal Fort, Pallikkare, Distt. Kasargod",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0021,"Bekal Fort, Pallikkare, Distt. Kasargod",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0021,"Bekal Fort, Pallikkare, Distt. Kasargod",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0021,"Bekal Fort, Pallikkare, Distt. Kasargod",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0021,"Bekal Fort, Pallikkare, Distt. Kasargod",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0022,Bellary Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0022,Bellary Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0022,Bellary Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0022,Bellary Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0022,Bellary Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0022,Bellary Fort,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0023,Bir Singh Palace Datia,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0023,Bir Singh Palace Datia,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0023,Bir Singh Palace Datia,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0023,Bir Singh Palace Datia,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0023,Bir Singh Palace Datia,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0024,Bishnudol,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0024,Bishnudol,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0024,Bishnudol,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0024,Bishnudol,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0024,Bishnudol,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0025,Bishnupur Temples,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0025,Bishnupur Temples,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0025,Bishnupur Temples,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0025,Bishnupur Temples,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0025,Bishnupur Temples,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0025,Bishnupur Temples,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0026,"Buddhish Caves, Junagadh",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0026,"Buddhish Caves, Junagadh",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0026,"Buddhish Caves, Junagadh",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0026,"Buddhish Caves, Junagadh",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0026,"Buddhish Caves, Junagadh",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0026,"Buddhish Caves, Junagadh",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0027,"Buddhist cave no 01 to 51 Dhamnar, Tehsil Garoth",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0027,"Buddhist cave no 01 to 51 Dhamnar, Tehsil Garoth",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0027,"Buddhist cave no 01 to 51 Dhamnar, Tehsil Garoth",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0027,"Buddhist cave no 01 to 51 Dhamnar, Tehsil Garoth",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0027,"Buddhist cave no 01 to 51 Dhamnar, Tehsil Garoth",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0027,"Buddhist cave no 01 to 51 Dhamnar, Tehsil Garoth",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0028,Buddhist Caves,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0028,Buddhist Caves,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0028,Buddhist Caves,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0028,Buddhist Caves,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0028,Buddhist Caves,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0029,Buddhist Caves Kanheri,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0029,Buddhist Caves Kanheri,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0029,Buddhist Caves Kanheri,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0029,Buddhist Caves Kanheri,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0029,Buddhist Caves Kanheri,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0029,Buddhist Caves Kanheri,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0030,"Buddhist Monuments, Sanchi",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0030,"Buddhist Monuments, Sanchi",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0030,"Buddhist Monuments, Sanchi",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0030,"Buddhist Monuments, Sanchi",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0030,"Buddhist Monuments, Sanchi",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0031,"Buddhist Remains on hill top at Guntupalli, W.G.District",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0031,"Buddhist Remains on hill top at Guntupalli, W.G.District",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0031,"Buddhist Remains on hill top at Guntupalli, W.G.District",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0031,"Buddhist Remains on hill top at Guntupalli, W.G.District",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0031,"Buddhist Remains on hill top at Guntupalli, W.G.District",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0031,"Buddhist Remains on hill top at Guntupalli, W.G.District",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0032,Caves 1 t0 20 Udaygiri Vidisha,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0032,Caves 1 t0 20 Udaygiri Vidisha,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0032,Caves 1 t0 20 Udaygiri Vidisha,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0032,Caves 1 t0 20 Udaygiri Vidisha,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0032,Caves 1 t0 20 Udaygiri Vidisha,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0032,Caves 1 t0 20 Udaygiri Vidisha,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0033,"Caves, Temples and inscriptions Karla",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0033,"Caves, Temples and inscriptions Karla",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0033,"Caves, Temples and inscriptions Karla",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0033,"Caves, Temples and inscriptions Karla",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0033,"Caves, Temples and inscriptions Karla",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0033,"Caves, Temples and inscriptions Karla",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0034,"Cave, Temple and Inscriptions, Junaar, Lenyadri",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0034,"Cave, Temple and Inscriptions, Junaar, Lenyadri",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0034,"Cave, Temple and Inscriptions, Junaar, Lenyadri",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0034,"Cave, Temple and Inscriptions, Junaar, Lenyadri",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0034,"Cave, Temple and Inscriptions, Junaar, Lenyadri",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0034,"Cave, Temple and Inscriptions, Junaar, Lenyadri",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0035,"Cave Temple & Inscriptions, Bhaja",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0035,"Cave Temple & Inscriptions, Bhaja",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0035,"Cave Temple & Inscriptions, Bhaja",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0035,"Cave Temple & Inscriptions, Bhaja",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0035,"Cave Temple & Inscriptions, Bhaja",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0035,"Cave Temple & Inscriptions, Bhaja",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0036,"Champaner Monuments, Pavagadh",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0036,"Champaner Monuments, Pavagadh",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0036,"Champaner Monuments, Pavagadh",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0036,"Champaner Monuments, Pavagadh",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0036,"Champaner Monuments, Pavagadh",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0036,"Champaner Monuments, Pavagadh",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0037,Chandragiri Monument,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0037,Chandragiri Monument,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0037,Chandragiri Monument,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0037,Chandragiri Monument,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0037,Chandragiri Monument,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0037,Chandragiri Monument,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0038,Charminar,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0038,Charminar,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0038,Charminar,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0038,Charminar,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0038,Charminar,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0039,Chittaurgarh Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0039,Chittaurgarh Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0039,Chittaurgarh Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0039,Chittaurgarh Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0039,Chittaurgarh Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0039,Chittaurgarh Fort,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0040,Cooch Bihar Palace,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0040,Cooch Bihar Palace,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0040,Cooch Bihar Palace,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0040,Cooch Bihar Palace,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0040,Cooch Bihar Palace,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0040,Cooch Bihar Palace,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0041,Dariya Daulath Bagh,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0041,Dariya Daulath Bagh,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0041,Dariya Daulath Bagh,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0041,Dariya Daulath Bagh,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0041,Dariya Daulath Bagh,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0041,Dariya Daulath Bagh,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0042,Daulatabad Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0042,Daulatabad Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0042,Daulatabad Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0042,Daulatabad Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0042,Daulatabad Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0043,Deeg Bhawan,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0043,Deeg Bhawan,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0043,Deeg Bhawan,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0043,Deeg Bhawan,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0043,Deeg Bhawan,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0044,Durga temple complex Aihole,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0044,Durga temple complex Aihole,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0044,Durga temple complex Aihole,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0044,Durga temple complex Aihole,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0044,Durga temple complex Aihole,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0044,Durga temple complex Aihole,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0045,Elephanta Caves,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0045,Elephanta Caves,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0045,Elephanta Caves,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0045,Elephanta Caves,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0045,Elephanta Caves,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0046,Ellora Caves,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0046,Ellora Caves,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0046,Ellora Caves,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0046,Ellora Caves,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0046,Ellora Caves,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0047,Excavated Remains at Nalanda,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0047,Excavated Remains at Nalanda,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0047,Excavated Remains at Nalanda,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0047,Excavated Remains at Nalanda,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0047,Excavated Remains at Nalanda,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0047,Excavated Remains at Nalanda,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0048,Excavated Remains at sarnath,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0048,Excavated Remains at sarnath,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0048,Excavated Remains at sarnath,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0048,Excavated Remains at sarnath,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0048,Excavated Remains at sarnath,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0048,Excavated Remains at sarnath,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0049,Fatehpur Sikri,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0049,Fatehpur Sikri,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0049,Fatehpur Sikri,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0049,Fatehpur Sikri,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0049,Fatehpur Sikri,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0050,"Fort Museum, Thirumayam",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0050,"Fort Museum, Thirumayam",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0050,"Fort Museum, Thirumayam",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0050,"Fort Museum, Thirumayam",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0050,"Fort Museum, Thirumayam",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0050,"Fort Museum, Thirumayam",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0051,"Fort on Rock, Dindigual",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0051,"Fort on Rock, Dindigual",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0051,"Fort on Rock, Dindigual",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0051,"Fort on Rock, Dindigual",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0051,"Fort on Rock, Dindigual",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0051,"Fort on Rock, Dindigual",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0052,"Fort, Palakkad, Palakkad",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0052,"Fort, Palakkad, Palakkad",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0052,"Fort, Palakkad, Palakkad",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0052,"Fort, Palakkad, Palakkad",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0052,"Fort, Palakkad, Palakkad",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0052,"Fort, Palakkad, Palakkad",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0053,Fortress and Temple Chitrudurga Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0053,Fortress and Temple Chitrudurga Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0053,Fortress and Temple Chitrudurga Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0053,Fortress and Temple Chitrudurga Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0053,Fortress and Temple Chitrudurga Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0053,Fortress and Temple Chitrudurga Fort,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0054,"Fort St. Angelo, Kannur",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0054,"Fort St. Angelo, Kannur",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0054,"Fort St. Angelo, Kannur",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0054,"Fort St. Angelo, Kannur",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0054,"Fort St. Angelo, Kannur",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0055,Fort Vattakottai,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0055,Fort Vattakottai,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0055,Fort Vattakottai,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0055,Fort Vattakottai,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0055,Fort Vattakottai,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0055,Fort Vattakottai,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0056,Gawilgarh Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0056,Gawilgarh Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0056,Gawilgarh Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0056,Gawilgarh Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0056,Gawilgarh Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0057,"Gingee Fort , Gingee",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0057,"Gingee Fort , Gingee",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0057,"Gingee Fort , Gingee",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0057,"Gingee Fort , Gingee",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0057,"Gingee Fort , Gingee",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0057,"Gingee Fort , Gingee",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0058,Golconda,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0058,Golconda,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0058,Golconda,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0058,Golconda,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0058,Golconda,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0058,Golconda,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0059,"Gol Gumbaz, Vijayapura",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0059,"Gol Gumbaz, Vijayapura",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0059,"Gol Gumbaz, Vijayapura",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0059,"Gol Gumbaz, Vijayapura",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0059,"Gol Gumbaz, Vijayapura",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0060,"Group of four MaidansCharaideo, Sibasagar",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0060,"Group of four MaidansCharaideo, Sibasagar",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0060,"Group of four MaidansCharaideo, Sibasagar",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0060,"Group of four MaidansCharaideo, Sibasagar",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0060,"Group of four MaidansCharaideo, Sibasagar",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0060,"Group of four MaidansCharaideo, Sibasagar",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0061,"Group of monument, Royal Palace Mandu",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0061,"Group of monument, Royal Palace Mandu",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0061,"Group of monument, Royal Palace Mandu",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0061,"Group of monument, Royal Palace Mandu",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0061,"Group of monument, Royal Palace Mandu",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0061,"Group of monument, Royal Palace Mandu",HIGH,Shared coordinates with another destination,Review location precision and site-complex relationship; do not merge automatically.,OPEN
+BV-ASI-0061,"Group of monument, Royal Palace Mandu",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0062,"Group of Monuments, Hampi",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0062,"Group of Monuments, Hampi",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0062,"Group of Monuments, Hampi",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0062,"Group of Monuments, Hampi",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0062,"Group of Monuments, Hampi",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0062,"Group of Monuments, Hampi",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0063,Group of Monuments Mamallapuram,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0063,Group of Monuments Mamallapuram,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0063,Group of Monuments Mamallapuram,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0063,Group of Monuments Mamallapuram,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0063,Group of Monuments Mamallapuram,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0063,Group of Monuments Mamallapuram,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0064,Group of Monuments (WH) Pattadakal,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0064,Group of Monuments (WH) Pattadakal,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0064,Group of Monuments (WH) Pattadakal,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0064,Group of Monuments (WH) Pattadakal,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0064,Group of Monuments (WH) Pattadakal,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0064,Group of Monuments (WH) Pattadakal,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0065,"Group of Temple Parameshvar shiv and Karan Temple, Amarkantak",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0065,"Group of Temple Parameshvar shiv and Karan Temple, Amarkantak",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0065,"Group of Temple Parameshvar shiv and Karan Temple, Amarkantak",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0065,"Group of Temple Parameshvar shiv and Karan Temple, Amarkantak",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0065,"Group of Temple Parameshvar shiv and Karan Temple, Amarkantak",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0065,"Group of Temple Parameshvar shiv and Karan Temple, Amarkantak",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0066,"Group of Temples at kiramchi, District Udhampur",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0066,"Group of Temples at kiramchi, District Udhampur",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0066,"Group of Temples at kiramchi, District Udhampur",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0066,"Group of Temples at kiramchi, District Udhampur",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0066,"Group of Temples at kiramchi, District Udhampur",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0066,"Group of Temples at kiramchi, District Udhampur",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0067,"Gupta Temple & Varah Temple, Deogarh",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0067,"Gupta Temple & Varah Temple, Deogarh",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0067,"Gupta Temple & Varah Temple, Deogarh",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0067,"Gupta Temple & Varah Temple, Deogarh",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0067,"Gupta Temple & Varah Temple, Deogarh",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0067,"Gupta Temple & Varah Temple, Deogarh",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0068,Gwalior Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0068,Gwalior Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0068,Gwalior Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0068,Gwalior Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0068,Gwalior Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0069,Hauzkhas,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0069,Hauzkhas,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0069,Hauzkhas,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0069,Hauzkhas,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0069,Hauzkhas,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0070,Hazarduari Palace,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0070,Hazarduari Palace,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0070,Hazarduari Palace,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0070,Hazarduari Palace,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0070,Hazarduari Palace,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0071,Hoshang Shah's Tomb,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0071,Hoshang Shah's Tomb,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0071,Hoshang Shah's Tomb,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0071,Hoshang Shah's Tomb,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0071,Hoshang Shah's Tomb,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0071,Hoshang Shah's Tomb,HIGH,Shared coordinates with another destination,Review location precision and site-complex relationship; do not merge automatically.,OPEN
+BV-ASI-0071,Hoshang Shah's Tomb,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0072,Humayun Tomb,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0072,Humayun Tomb,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0072,Humayun Tomb,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0072,Humayun Tomb,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0072,Humayun Tomb,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0072,Humayun Tomb,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0073,"Ibrahim Rauza, Bijapur",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0073,"Ibrahim Rauza, Bijapur",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0073,"Ibrahim Rauza, Bijapur",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0073,"Ibrahim Rauza, Bijapur",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0073,"Ibrahim Rauza, Bijapur",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0073,"Ibrahim Rauza, Bijapur",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0074,Itimad-ud-Daulah-Tomb,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0074,Itimad-ud-Daulah-Tomb,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0074,Itimad-ud-Daulah-Tomb,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0074,Itimad-ud-Daulah-Tomb,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0074,Itimad-ud-Daulah-Tomb,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0074,Itimad-ud-Daulah-Tomb,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0075,"Jaina & Vaishnava Cave, Badami",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0075,"Jaina & Vaishnava Cave, Badami",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0075,"Jaina & Vaishnava Cave, Badami",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0075,"Jaina & Vaishnava Cave, Badami",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0075,"Jaina & Vaishnava Cave, Badami",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0075,"Jaina & Vaishnava Cave, Badami",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0076,"Janjira Fort, Murd",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0076,"Janjira Fort, Murd",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0076,"Janjira Fort, Murd",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0076,"Janjira Fort, Murd",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0076,"Janjira Fort, Murd",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0076,"Janjira Fort, Murd",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0077,Jantar Mantar,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0077,Jantar Mantar,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0077,Jantar Mantar,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0077,Jantar Mantar,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0077,Jantar Mantar,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0078,Kalinjar Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0078,Kalinjar Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0078,Kalinjar Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0078,Kalinjar Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0078,Kalinjar Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0079,"Kareghar of Ahom Kings, Sibasagar",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0079,"Kareghar of Ahom Kings, Sibasagar",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0079,"Kareghar of Ahom Kings, Sibasagar",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0079,"Kareghar of Ahom Kings, Sibasagar",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0079,"Kareghar of Ahom Kings, Sibasagar",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0079,"Kareghar of Ahom Kings, Sibasagar",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0080,Keshava Temple,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0080,Keshava Temple,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0080,Keshava Temple,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0080,Keshava Temple,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0080,Keshava Temple,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0080,Keshava Temple,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0081,Khan-I-Khana,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0081,Khan-I-Khana,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0081,Khan-I-Khana,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0081,Khan-I-Khana,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0081,Khan-I-Khana,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0082,"Kolaba Fort, Alibag",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0082,"Kolaba Fort, Alibag",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0082,"Kolaba Fort, Alibag",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0082,"Kolaba Fort, Alibag",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0082,"Kolaba Fort, Alibag",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0082,"Kolaba Fort, Alibag",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0083,Kondiote Caves,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0083,Kondiote Caves,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0083,Kondiote Caves,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0083,Kondiote Caves,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0083,Kondiote Caves,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0083,Kondiote Caves,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0084,Kotla Feroz Shah,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0084,Kotla Feroz Shah,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0084,Kotla Feroz Shah,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0084,Kotla Feroz Shah,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0084,Kotla Feroz Shah,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0084,Kotla Feroz Shah,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0085,Kumbhalgarh Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0085,Kumbhalgarh Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0085,Kumbhalgarh Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0085,Kumbhalgarh Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0085,Kumbhalgarh Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0085,Kumbhalgarh Fort,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0086,Lohgad Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0086,Lohgad Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0086,Lohgad Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0086,Lohgad Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0086,Lohgad Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0086,Lohgad Fort,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0087,Lord Cornwallis Tomb,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0087,Lord Cornwallis Tomb,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0087,Lord Cornwallis Tomb,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0087,Lord Cornwallis Tomb,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0087,Lord Cornwallis Tomb,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0088,Marble Pavillion and balustrade on the Ana Sagar bund and ruins of the marble Hammam Behind the Ana sagar Bund,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0088,Marble Pavillion and balustrade on the Ana Sagar bund and ruins of the marble Hammam Behind the Ana sagar Bund,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0088,Marble Pavillion and balustrade on the Ana Sagar bund and ruins of the marble Hammam Behind the Ana sagar Bund,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0088,Marble Pavillion and balustrade on the Ana Sagar bund and ruins of the marble Hammam Behind the Ana sagar Bund,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0088,Marble Pavillion and balustrade on the Ana Sagar bund and ruins of the marble Hammam Behind the Ana sagar Bund,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0088,Marble Pavillion and balustrade on the Ana Sagar bund and ruins of the marble Hammam Behind the Ana sagar Bund,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0089,Mariam tomb Sikandra,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0089,Mariam tomb Sikandra,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0089,Mariam tomb Sikandra,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0089,Mariam tomb Sikandra,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0089,Mariam tomb Sikandra,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0089,Mariam tomb Sikandra,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0090,mattancherry Palace Museum Kochi,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0090,mattancherry Palace Museum Kochi,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0090,mattancherry Palace Museum Kochi,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0090,mattancherry Palace Museum Kochi,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0090,mattancherry Palace Museum Kochi,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0090,mattancherry Palace Museum Kochi,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0091,Mausoleum,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0091,Mausoleum,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0091,Mausoleum,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0091,Mausoleum,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0091,Mausoleum,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0092,Mehtab Bagh,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0092,Mehtab Bagh,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0092,Mehtab Bagh,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0092,Mehtab Bagh,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0092,Mehtab Bagh,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0093,Metcelf-Hall,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0093,Metcelf-Hall,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0093,Metcelf-Hall,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0093,Metcelf-Hall,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0093,Metcelf-Hall,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0093,Metcelf-Hall,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0094,"Moovarkoil, Kodumbalur",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0094,"Moovarkoil, Kodumbalur",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0094,"Moovarkoil, Kodumbalur",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0094,"Moovarkoil, Kodumbalur",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0094,"Moovarkoil, Kodumbalur",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0094,"Moovarkoil, Kodumbalur",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0095,Nagarjuna Kunda,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0095,Nagarjuna Kunda,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0095,Nagarjuna Kunda,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0095,Nagarjuna Kunda,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0095,Nagarjuna Kunda,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0095,Nagarjuna Kunda,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0096,"Natural Caven with inscription eladipattam, Sittannavasal",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0096,"Natural Caven with inscription eladipattam, Sittannavasal",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0096,"Natural Caven with inscription eladipattam, Sittannavasal",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0096,"Natural Caven with inscription eladipattam, Sittannavasal",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0096,"Natural Caven with inscription eladipattam, Sittannavasal",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0096,"Natural Caven with inscription eladipattam, Sittannavasal",HIGH,Shared coordinates with another destination,Review location precision and site-complex relationship; do not merge automatically.,OPEN
+BV-ASI-0096,"Natural Caven with inscription eladipattam, Sittannavasal",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0097,Observatory of Man Singh,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0097,Observatory of Man Singh,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0097,Observatory of Man Singh,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0097,Observatory of Man Singh,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0097,Observatory of Man Singh,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0098,"Old Fort (Shahi Fort), Jaunpur",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0098,"Old Fort (Shahi Fort), Jaunpur",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0098,"Old Fort (Shahi Fort), Jaunpur",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0098,"Old Fort (Shahi Fort), Jaunpur",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0098,"Old Fort (Shahi Fort), Jaunpur",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0098,"Old Fort (Shahi Fort), Jaunpur",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0099,"Old Fort, Sholapur",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0099,"Old Fort, Sholapur",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0099,"Old Fort, Sholapur",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0099,"Old Fort, Sholapur",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0099,"Old Fort, Sholapur",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0100,"Palace Complex at Ramnagar, Distt. Udhampur",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0100,"Palace Complex at Ramnagar, Distt. Udhampur",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0100,"Palace Complex at Ramnagar, Distt. Udhampur",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0100,"Palace Complex at Ramnagar, Distt. Udhampur",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0100,"Palace Complex at Ramnagar, Distt. Udhampur",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0100,"Palace Complex at Ramnagar, Distt. Udhampur",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0101,Palace of Tipu Sultan,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0101,Palace of Tipu Sultan,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0101,Palace of Tipu Sultan,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0101,Palace of Tipu Sultan,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0101,Palace of Tipu Sultan,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0101,Palace of Tipu Sultan,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0102,Pandulena Caves,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0102,Pandulena Caves,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0102,Pandulena Caves,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0102,Pandulena Caves,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0102,Pandulena Caves,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0102,Pandulena Caves,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0103,Piprahwa & Ganwaria,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0103,Piprahwa & Ganwaria,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0103,Piprahwa & Ganwaria,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0103,Piprahwa & Ganwaria,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0103,Piprahwa & Ganwaria,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0103,Piprahwa & Ganwaria,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0104,Purana Qila,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0104,Purana Qila,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0104,Purana Qila,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0104,Purana Qila,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0104,Purana Qila,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0105,Qutub Minar,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0105,Qutub Minar,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0105,Qutub Minar,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0105,Qutub Minar,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0105,Qutub Minar,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0105,Qutub Minar,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0106,Raigad Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0106,Raigad Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0106,Raigad Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0106,Raigad Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0106,Raigad Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0107,Rajarani Temple,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0107,Rajarani Temple,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0107,Rajarani Temple,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0107,Rajarani Temple,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0107,Rajarani Temple,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0108,Ram Bagh,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0108,Ram Bagh,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0108,Ram Bagh,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0108,Ram Bagh,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0108,Ram Bagh,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0109,"Ranghar Pavillion, Jaisagar",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0109,"Ranghar Pavillion, Jaisagar",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0109,"Ranghar Pavillion, Jaisagar",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0109,"Ranghar Pavillion, Jaisagar",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0109,"Ranghar Pavillion, Jaisagar",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0109,"Ranghar Pavillion, Jaisagar",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0110,Rani Jhansi Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0110,Rani Jhansi Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0110,Rani Jhansi Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0110,Rani Jhansi Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0110,Rani Jhansi Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0110,Rani Jhansi Fort,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0111,"Rani Ki-Vav, Patan",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0111,"Rani Ki-Vav, Patan",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0111,"Rani Ki-Vav, Patan",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0111,"Rani Ki-Vav, Patan",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0111,"Rani Ki-Vav, Patan",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0111,"Rani Ki-Vav, Patan",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0112,Rani Lakshmi Bai Mahal,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0112,Rani Lakshmi Bai Mahal,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0112,Rani Lakshmi Bai Mahal,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0112,Rani Lakshmi Bai Mahal,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0112,Rani Lakshmi Bai Mahal,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0113,Red Fort,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0113,Red Fort,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0113,Red Fort,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0113,Red Fort,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0113,Red Fort,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0114,"Remains of Patliputra Site of Mauryan Palace, Kumrahar",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0114,"Remains of Patliputra Site of Mauryan Palace, Kumrahar",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0114,"Remains of Patliputra Site of Mauryan Palace, Kumrahar",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0114,"Remains of Patliputra Site of Mauryan Palace, Kumrahar",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0114,"Remains of Patliputra Site of Mauryan Palace, Kumrahar",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0114,"Remains of Patliputra Site of Mauryan Palace, Kumrahar",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0115,Residency Building,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0115,Residency Building,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0115,Residency Building,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0115,Residency Building,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0115,Residency Building,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0116,"Rock-cut Jain Temple, Sittannavasasl",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0116,"Rock-cut Jain Temple, Sittannavasasl",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0116,"Rock-cut Jain Temple, Sittannavasasl",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0116,"Rock-cut Jain Temple, Sittannavasasl",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0116,"Rock-cut Jain Temple, Sittannavasasl",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0116,"Rock-cut Jain Temple, Sittannavasasl",HIGH,Shared coordinates with another destination,Review location precision and site-complex relationship; do not merge automatically.,OPEN
+BV-ASI-0116,"Rock-cut Jain Temple, Sittannavasasl",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0117,Rock-cut Temples and Sculptures,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0117,Rock-cut Temples and Sculptures,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0117,Rock-cut Temples and Sculptures,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0117,Rock-cut Temples and Sculptures,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0117,Rock-cut Temples and Sculptures,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0117,Rock-cut Temples and Sculptures,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0118,Roopmati's Pavilion,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0118,Roopmati's Pavilion,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0118,Roopmati's Pavilion,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0118,Roopmati's Pavilion,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0118,Roopmati's Pavilion,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0118,Roopmati's Pavilion,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0119,"Rudabai Step Well, Adalaj",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0119,"Rudabai Step Well, Adalaj",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0119,"Rudabai Step Well, Adalaj",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0119,"Rudabai Step Well, Adalaj",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0119,"Rudabai Step Well, Adalaj",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0119,"Rudabai Step Well, Adalaj",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0120,"Ruined Fort, kangra",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0120,"Ruined Fort, kangra",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0120,"Ruined Fort, kangra",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0120,"Ruined Fort, kangra",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0120,"Ruined Fort, kangra",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0121,Ruins of Buddhist Temples and Images lalitgiri,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0121,Ruins of Buddhist Temples and Images lalitgiri,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0121,Ruins of Buddhist Temples and Images lalitgiri,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0121,Ruins of Buddhist Temples and Images lalitgiri,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0121,Ruins of Buddhist Temples and Images lalitgiri,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0121,Ruins of Buddhist Temples and Images lalitgiri,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0122,Safdarjung Tomb,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0122,Safdarjung Tomb,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0122,Safdarjung Tomb,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0122,Safdarjung Tomb,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0122,Safdarjung Tomb,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0122,Safdarjung Tomb,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0123,Shaniwarwada,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0123,Shaniwarwada,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0123,Shaniwarwada,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0123,Shaniwarwada,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0123,Shaniwarwada,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0123,Shaniwarwada,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0124,Sheikh Chilli's Tomb,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0124,Sheikh Chilli's Tomb,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0124,Sheikh Chilli's Tomb,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0124,Sheikh Chilli's Tomb,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0124,Sheikh Chilli's Tomb,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0125,Sher Shah's Tomb,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0125,Sher Shah's Tomb,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0125,Sher Shah's Tomb,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0125,Sher Shah's Tomb,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0125,Sher Shah's Tomb,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0125,Sher Shah's Tomb,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0126,Site of Sahet mahet,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0126,Site of Sahet mahet,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0126,Site of Sahet mahet,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0126,Site of Sahet mahet,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0126,Site of Sahet mahet,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0127,Sultanghari Tomb,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0127,Sultanghari Tomb,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0127,Sultanghari Tomb,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0127,Sultanghari Tomb,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0127,Sultanghari Tomb,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0127,Sultanghari Tomb,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0128,"Sun Temple, Konark",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0128,"Sun Temple, Konark",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0128,"Sun Temple, Konark",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0128,"Sun Temple, Konark",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0128,"Sun Temple, Konark",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0128,"Sun Temple, Konark",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0129,"Sun temple, Modhera",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0129,"Sun temple, Modhera",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0129,"Sun temple, Modhera",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0129,"Sun temple, Modhera",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0129,"Sun temple, Modhera",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0129,"Sun temple, Modhera",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0130,Suraj Kund,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0130,Suraj Kund,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0130,Suraj Kund,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0130,Suraj Kund,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0130,Suraj Kund,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0131,Taj Mahal,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0131,Taj Mahal,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0131,Taj Mahal,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0131,Taj Mahal,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0131,Taj Mahal,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0132,Temple of Laxman and Old sites including sculptures sirpur,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0132,Temple of Laxman and Old sites including sculptures sirpur,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0132,Temple of Laxman and Old sites including sculptures sirpur,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0132,Temple of Laxman and Old sites including sculptures sirpur,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0132,Temple of Laxman and Old sites including sculptures sirpur,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0132,Temple of Laxman and Old sites including sculptures sirpur,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0133,"Temples & Sculpture Shed, lakkumdi",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0133,"Temples & Sculpture Shed, lakkumdi",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0133,"Temples & Sculpture Shed, lakkumdi",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0133,"Temples & Sculpture Shed, lakkumdi",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0133,"Temples & Sculpture Shed, lakkumdi",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0133,"Temples & Sculpture Shed, lakkumdi",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0134,The Hill Containing Many Valuable Sculptures and Images Ratnagiri,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0134,The Hill Containing Many Valuable Sculptures and Images Ratnagiri,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0134,The Hill Containing Many Valuable Sculptures and Images Ratnagiri,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0134,The Hill Containing Many Valuable Sculptures and Images Ratnagiri,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0134,The Hill Containing Many Valuable Sculptures and Images Ratnagiri,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0134,The Hill Containing Many Valuable Sculptures and Images Ratnagiri,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0135,"The palace situated in the fort, Burhanpur",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0135,"The palace situated in the fort, Burhanpur",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0135,"The palace situated in the fort, Burhanpur",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0135,"The palace situated in the fort, Burhanpur",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0135,"The palace situated in the fort, Burhanpur",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0136,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0136,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0136,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0136,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0136,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0136,"Tiger headed Rock cut temple & two other monuments, Saluvankuppam",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0137,Tirumalai Nayak's Palace Srivilliputhur,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0137,Tirumalai Nayak's Palace Srivilliputhur,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0137,Tirumalai Nayak's Palace Srivilliputhur,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0137,Tirumalai Nayak's Palace Srivilliputhur,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0137,Tirumalai Nayak's Palace Srivilliputhur,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0137,Tirumalai Nayak's Palace Srivilliputhur,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0138,Tomb of Lal Khan,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0138,Tomb of Lal Khan,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0138,Tomb of Lal Khan,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0138,Tomb of Lal Khan,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0138,Tomb of Lal Khan,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0139,Tomb of Rabia Durani (Bibi ka Maqbara),HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0139,Tomb of Rabia Durani (Bibi ka Maqbara),HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0139,Tomb of Rabia Durani (Bibi ka Maqbara),HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0139,Tomb of Rabia Durani (Bibi ka Maqbara),MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0139,Tomb of Rabia Durani (Bibi ka Maqbara),MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0139,Tomb of Rabia Durani (Bibi ka Maqbara),MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0140,Tughluqabad,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0140,Tughluqabad,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0140,Tughluqabad,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0140,Tughluqabad,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0140,Tughluqabad,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0140,Tughluqabad,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0141,Undavalli caves,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0141,Undavalli caves,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0141,Undavalli caves,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0141,Undavalli caves,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0141,Undavalli caves,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0141,Undavalli caves,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0142,Upper Fort Aguada,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0142,Upper Fort Aguada,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0142,Upper Fort Aguada,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0142,Upper Fort Aguada,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0142,Upper Fort Aguada,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0142,Upper Fort Aguada,MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN
+BV-ASI-0143,Warangal,HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0143,Warangal,HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0143,Warangal,HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0143,Warangal,MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0143,Warangal,MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0144,"Western Group of Temples, Khajuraho",HIGH,Missing field-level provenance for city/state/coordinates/category,Retain as UNVERIFIED; add primary or official source per field before public factual claims.,OPEN
+BV-ASI-0144,"Western Group of Temples, Khajuraho",HIGH,No destination-level women-safety evidence,"Keep all safety fields NULL/Not Available; add only verified, dated sources.",OPEN
+BV-ASI-0144,"Western Group of Temples, Khajuraho",HIGH,No destination-level accessibility evidence,Keep all accessibility fields NULL/Not Available; add site/operator evidence.,OPEN
+BV-ASI-0144,"Western Group of Temples, Khajuraho",MEDIUM,Visitor figures are 2019-20 and processed-source provenance is incomplete,Label the period in UI/API and obtain original ASI/MoT citation.,OPEN
+BV-ASI-0144,"Western Group of Temples, Khajuraho",MEDIUM,No defensible hidden-gem methodology,Keep hidden_gem_score NULL until documented source-backed indicators exist.,OPEN
+BV-ASI-0144,"Western Group of Temples, Khajuraho",MEDIUM,No exact normalized match in supplied CPM PDF extraction,"Manually inspect name variant, locality and district before marking CPM-list membership.",OPEN

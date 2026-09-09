@@ -2,9 +2,17 @@
    SAMARKAN FONT
 ================================= */
 
-@font-face {
+/* @font-face {
   font-family: "Samarkan";
   src: url("/fonts/Samarkan.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+} */
+
+@font-face {
+  font-family: "Samarkan";
+  src: url("../assets/fonts/Samarkan.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
@@ -26,7 +34,6 @@
 
 .hero {
   position: relative;
-
   min-height: 100vh;
 
   display: flex;
@@ -41,7 +48,7 @@
 
 
 /* =================================
-   HERO OVERLAY
+   HERO DARK OVERLAY
 ================================= */
 
 .hero::before {
@@ -53,9 +60,9 @@
   background:
     linear-gradient(
       90deg,
-      rgba(0, 0, 0, 0.85) 0%,
-      rgba(0, 0, 0, 0.55) 45%,
-      rgba(0, 0, 0, 0.15) 100%
+      rgba(0, 0, 0, 0.88) 0%,
+      rgba(0, 0, 0, 0.58) 42%,
+      rgba(0, 0, 0, 0.30) 100%
     );
 
   z-index: 0;
@@ -68,19 +75,24 @@
 
 .hero-content {
   position: relative;
-  z-index: 1;
+  z-index: 2;
 
   width: 100%;
-  max-width: 900px;
+  max-width: none;
 
-  margin-left: 8%;
+  margin: 0;
 
-  padding-top: 70px;
+  padding: 60px 6%;
+
+  display: flex;
+  flex-direction: column;
+
+  justify-content: center;
 }
 
 
 /* =================================
-   SMALL HERO LABEL
+   HERO TEXT
 ================================= */
 
 .hero-tag {
@@ -94,10 +106,6 @@
   letter-spacing: 3px;
 }
 
-
-/* =================================
-   MAIN TITLE
-================================= */
 
 .hero-content h1 {
   margin: 0 0 15px;
@@ -114,11 +122,7 @@
 }
 
 
-/* =================================
-   SAMARKAN TAGLINE
-================================= */
-
-.hero-tagline {
+/* .hero-tagline {
   margin: 20px 0 28px;
 
   font-family: "Samarkan", serif !important;
@@ -134,15 +138,32 @@
   color: #ffffff;
 
   text-align: left;
+} */
+
+
+
+
+.hero-tagline {
+  margin: 20px 0 28px;
+
+  font-family: "Samarkan", serif !important;
+
+  font-size: clamp(40px, 4.5vw, 45px);
+
+  font-weight: normal !important;
+
+  line-height: 1.25;
+
+  letter-spacing: 1px;
+
+  color: #ffffff;
+
+  text-align: left;
 }
 
 
-/* =================================
-   DESCRIPTION
-================================= */
-
 .hero-description {
-  max-width: 650px;
+  max-width: 620px;
 
   margin: 0 0 35px;
 
@@ -155,7 +176,7 @@
 
 
 /* =================================
-   BUTTONS
+   HERO BUTTONS
 ================================= */
 
 .hero-buttons {
@@ -166,10 +187,6 @@
   align-items: center;
 }
 
-
-/* =================================
-   COMMON BUTTON
-================================= */
 
 .primary-btn,
 .secondary-btn {
@@ -190,10 +207,6 @@
 }
 
 
-/* =================================
-   PRIMARY BUTTON
-================================= */
-
 .primary-btn {
   border: none;
 
@@ -202,16 +215,13 @@
   color: #111;
 }
 
+
 .primary-btn:hover {
   background: #f2ad4c;
 
   transform: translateY(-2px);
 }
 
-
-/* =================================
-   SECONDARY BUTTON
-================================= */
 
 .secondary-btn {
   border: 1px solid rgba(255, 255, 255, 0.5);
@@ -223,6 +233,7 @@
   backdrop-filter: blur(8px);
 }
 
+
 .secondary-btn:hover {
   background: rgba(255, 255, 255, 0.15);
 
@@ -232,69 +243,590 @@
 }
 
 
-/* =================================
-   RESPONSIVE
-================================= */
+/* =================================================
+   HOME LOGIN PANEL
+   LIQUID GLASS — RIGHT SIDE
+================================================= */
 
-@media (max-width: 900px) {
+.home-login-panel {
+  position: absolute;
 
-  .hero-content {
-    margin-left: 6%;
+  top: 425px;
+  right: 6%;
 
-    margin-right: 6%;
-  }
+  transform: translateY(-50%);
 
-  .hero-content h1 {
-    font-size: clamp(4rem, 12vw, 7rem);
-  }
+  width: min(440px, 38vw);
 
-  .hero-tagline {
-    font-size: clamp(32px, 7vw, 52px);
-  }
+  padding: 34px 40px;
+
+  border-radius: 28px;
+
+  /* Liquid glass */
+  background:
+    linear-gradient(
+      135deg,
+      rgba(255, 255, 255, 0.16),
+      rgba(255, 255, 255, 0.055)
+    );
+
+  border: 1px solid rgba(255, 255, 255, 0.22);
+
+  backdrop-filter: blur(24px) saturate(140%);
+  -webkit-backdrop-filter: blur(24px) saturate(140%);
+
+  box-shadow:
+    0 25px 80px rgba(0, 0, 0, 0.55),
+    inset 0 1px 1px rgba(255, 255, 255, 0.18);
+
+  color: white;
+
+  z-index: 10;
 }
 
 
-@media (max-width: 600px) {
+/* =================================
+   GLASS LIGHT EFFECT
+================================= */
 
-  .hero {
-    min-height: 100svh;
+.home-login-panel::before {
+  content: "";
 
-    background-position: center;
+  position: absolute;
+
+  top: -80px;
+  left: -100px;
+
+  width: 240px;
+  height: 240px;
+
+  background: rgba(255, 166, 55, 0.25);
+
+  filter: blur(70px);
+
+  border-radius: 50%;
+
+  pointer-events: none;
+}
+
+
+.home-login-panel::after {
+  content: "";
+
+  position: absolute;
+
+  bottom: -100px;
+  right: -80px;
+
+  width: 220px;
+  height: 220px;
+
+  background: rgba(233, 154, 50, 0.18);
+
+  filter: blur(70px);
+
+  border-radius: 50%;
+
+  pointer-events: none;
+}
+
+
+/* =================================
+   LOGIN HEADER
+================================= */
+
+.home-login-header {
+  position: relative;
+
+  z-index: 2;
+
+  text-align: center;
+
+  margin-bottom: 28px;
+}
+
+
+.login-badge {
+  display: inline-block;
+
+  padding: 8px 18px;
+
+  border: 1px solid rgba(233, 154, 50, 0.45);
+
+  border-radius: 30px;
+
+  color: #e99a32;
+
+  font-size: 12px;
+
+  font-weight: 700;
+
+  letter-spacing: 2px;
+
+  margin-bottom: 18px;
+}
+
+
+.home-login-header h2 {
+  margin: 0 0 10px;
+
+  font-size: 40px;
+
+  color: #ffffff;
+
+  font-weight: 800;
+}
+
+
+.home-login-header p {
+  margin: 0;
+
+  color: rgba(255, 255, 255, 0.68);
+
+  font-size: 15px;
+
+  line-height: 1.5;
+}
+
+
+/* =================================
+   LOGIN FORM
+================================= */
+
+.home-login-form {
+  position: relative;
+
+  z-index: 2;
+}
+
+
+.login-input-group {
+  display: flex;
+
+  flex-direction: column;
+
+  gap: 8px;
+
+  margin-bottom: 20px;
+}
+
+
+.login-input-group label {
+  color: rgba(255, 255, 255, 0.88);
+
+  font-size: 14px;
+
+  font-weight: 700;
+}
+
+
+.login-input-group input {
+  width: 100%;
+
+  box-sizing: border-box;
+
+  padding: 16px 18px;
+
+  border-radius: 14px;
+
+  border: 1px solid rgba(255, 255, 255, 0.13);
+
+  outline: none;
+
+  background:
+    rgba(0, 0, 0, 0.25);
+
+  color: #ffffff;
+
+  font-size: 15px;
+
+  transition:
+    border-color 0.2s ease,
+    background 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+
+.login-input-group input::placeholder {
+  color: rgba(255, 255, 255, 0.42);
+}
+
+
+.login-input-group input:focus {
+  border-color: rgba(233, 154, 50, 0.7);
+
+  background: rgba(0, 0, 0, 0.35);
+
+  box-shadow:
+    0 0 0 3px rgba(233, 154, 50, 0.1);
+}
+
+
+/* =================================
+   LOGIN OPTIONS
+================================= */
+
+.login-options {
+  display: flex;
+
+  align-items: center;
+
+  justify-content: space-between;
+
+  gap: 10px;
+
+  margin: 4px 0 24px;
+
+  font-size: 13px;
+}
+
+
+.login-options label {
+  display: flex;
+
+  align-items: center;
+
+  gap: 8px;
+
+  color: rgba(255, 255, 255, 0.65);
+
+  cursor: pointer;
+}
+
+
+.login-options input[type="checkbox"] {
+  accent-color: #e99a32;
+
+  width: 15px;
+  height: 15px;
+}
+
+
+.login-options button {
+  border: none;
+
+  background: none;
+
+  color: #e99a32;
+
+  font-size: 13px;
+
+  cursor: pointer;
+
+  padding: 0;
+}
+
+
+.login-options button:hover {
+  color: #f2b04e;
+}
+
+
+/* =================================
+   LOGIN BUTTON
+================================= */
+
+.home-login-btn {
+  width: 100%;
+
+  padding: 16px;
+
+  border: none;
+
+  border-radius: 14px;
+
+  background: #e99a32;
+
+  color: #111;
+
+  font-size: 16px;
+
+  font-weight: 800;
+
+  cursor: pointer;
+
+  transition:
+    transform 0.2s ease,
+    background 0.2s ease,
+    box-shadow 0.2s ease;
+}
+
+
+.home-login-btn:hover {
+  background: #f2ad4c;
+
+  transform: translateY(-2px);
+
+  box-shadow:
+    0 10px 25px rgba(233, 154, 50, 0.25);
+}
+
+
+/* =================================
+   DIVIDER
+================================= */
+
+.home-login-divider {
+  position: relative;
+
+  z-index: 2;
+
+  display: flex;
+
+  align-items: center;
+
+  gap: 14px;
+
+  margin: 25px 0;
+}
+
+
+.home-login-divider::before,
+.home-login-divider::after {
+  content: "";
+
+  flex: 1;
+
+  height: 1px;
+
+  background: rgba(255, 255, 255, 0.15);
+}
+
+
+.home-login-divider span {
+  color: rgba(255, 255, 255, 0.5);
+
+  font-size: 12px;
+}
+
+
+/* =================================
+   GUEST BUTTON
+================================= */
+
+.guest-login-btn {
+  position: relative;
+
+  z-index: 2;
+
+  width: 100%;
+
+  padding: 15px;
+
+  border-radius: 14px;
+
+  border: 1px solid rgba(255, 255, 255, 0.22);
+
+  background: rgba(255, 255, 255, 0.06);
+
+  color: white;
+
+  font-size: 15px;
+
+  font-weight: 700;
+
+  cursor: pointer;
+
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease,
+    transform 0.2s ease;
+}
+
+
+.guest-login-btn:hover {
+  background: rgba(255, 255, 255, 0.12);
+
+  border-color: rgba(255, 255, 255, 0.4);
+
+  transform: translateY(-2px);
+}
+
+
+/* =================================
+   SIGN UP
+================================= */
+
+.home-signup {
+  position: relative;
+
+  z-index: 2;
+
+  text-align: center;
+
+  margin: 25px 0 0;
+
+  color: rgba(255, 255, 255, 0.6);
+
+  font-size: 14px;
+}
+
+
+.home-signup button {
+  margin-left: 7px;
+
+  border: none;
+
+  background: none;
+
+  color: #e99a32;
+
+  font-size: 14px;
+
+  font-weight: 700;
+
+  cursor: pointer;
+}
+
+
+.home-signup button:hover {
+  color: #f2b04e;
+}
+
+
+/* =================================================
+   DESKTOP LAYOUT FIX
+================================================= */
+
+/*
+   The login panel is absolute on the right.
+   Therefore the hero text must have enough space
+   on the left.
+*/
+
+@media (min-width: 1000px) {
+
+  .hero-content {
+    padding-right: 48%;
+  }
+
+}
+
+
+/* =================================
+   TABLET
+================================= */
+
+@media (max-width: 1000px) {
+
+  .hero-content {
+    padding: 60px 5%;
+  }
+
+  .home-login-panel {
+    width: min(400px, 40vw);
+
+    right: 4%;
+
+    padding: 30px;
   }
 
   .hero-content {
-    margin-left: 6%;
-
-    margin-right: 6%;
-
-    padding-top: 50px;
-  }
-
-  .hero-tag {
-    font-size: 11px;
-
-    letter-spacing: 2px;
+    padding-right: 48%;
   }
 
   .hero-content h1 {
-    font-size: 4rem;
-
-    letter-spacing: -2px;
+    font-size: clamp(3.5rem, 7vw, 6rem);
   }
 
   .hero-tagline {
+    font-size: clamp(30px, 4vw, 48px);
+  }
+
+}
+
+
+/* =================================
+   MOBILE
+================================= */
+
+@media (max-width: 750px) {
+
+  .hero {
+    min-height: auto;
+
+    padding: 80px 0;
+  }
+
+  .hero::before {
+    background:
+      linear-gradient(
+        180deg,
+        rgba(0, 0, 0, 0.82),
+        rgba(0, 0, 0, 0.65)
+      );
+  }
+
+  .hero-content {
+    padding: 40px 6%;
+
+    display: flex;
+
+    flex-direction: column;
+
+    align-items: stretch;
+  }
+
+  /*
+     Login panel becomes normal flow
+     on mobile.
+  */
+
+  .home-login-panel {
+    position: relative;
+
+    top: auto;
+    right: auto;
+
+    transform: none;
+
+    order: 1;
+
+    width: 100%;
+
+    box-sizing: border-box;
+
+    margin-bottom: 50px;
+
+    padding: 30px 24px;
+
+    border-radius: 24px;
+  }
+
+  .hero-tag {
+    order: 2;
+
+    text-align: center;
+  }
+
+  .hero-content h1 {
+    order: 3;
+
+    text-align: center;
+
+    font-size: 4rem;
+  }
+
+  .hero-tagline {
+    order: 4;
+
+    text-align: center;
+
     font-size: 32px;
-
-    text-align: left;
-
-    margin-top: 15px;
   }
 
   .hero-description {
-    font-size: 15px;
+    order: 5;
+
+    text-align: center;
+
+    margin-left: auto;
+    margin-right: auto;
   }
 
   .hero-buttons {
+    order: 6;
+
     flex-direction: column;
 
     align-items: stretch;
@@ -306,18 +838,44 @@
   .secondary-btn {
     width: 100%;
   }
+
 }
 
 
+/* =================================
+   SMALL MOBILE
+================================= */
 
-@font-face {
-  font-family: "Samarkan";
-  src: url("../assets/fonts/Samarkan.ttf") format("truetype");
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
+@media (max-width: 480px) {
 
-.hero-tagline {
-  font-family: "Samarkan", serif;
+  .home-login-panel {
+    padding: 26px 20px;
+  }
+
+  .home-login-header h2 {
+    font-size: 32px;
+  }
+
+  .home-login-header p {
+    font-size: 14px;
+  }
+
+  .login-options {
+    flex-direction: column;
+
+    align-items: flex-start;
+
+    gap: 12px;
+  }
+
+  .hero-content h1 {
+    font-size: 3.5rem;
+
+    letter-spacing: -2px;
+  }
+
+  .hero-tagline {
+    font-size: 28px;
+  }
+
 }

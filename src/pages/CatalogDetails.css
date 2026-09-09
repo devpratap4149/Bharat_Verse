@@ -1,0 +1,65 @@
+.catalog-details-page,
+.catalog-not-found {
+  min-height: 100vh;
+  background: #0b0b0b;
+  color: #fff;
+}
+
+.catalog-not-found {
+  padding: 160px 7%;
+}
+
+.catalog-not-found a,
+.catalog-back-button {
+  color: #e99a32;
+  text-decoration: none;
+}
+
+.catalog-details-hero {
+  position: relative;
+  height: min(54vw, 520px);
+  min-height: 360px;
+  overflow: hidden;
+}
+
+.catalog-details-hero > img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.catalog-details-hero-overlay {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  padding: 48px 7%;
+  background: linear-gradient(to top, rgba(0, 0, 0, .94), rgba(0, 0, 0, .08));
+}
+
+.catalog-back-button { margin-bottom: auto; font-weight: 700; }
+.catalog-eyebrow { color: #f1b45d; font-size: .78rem; font-weight: 800; letter-spacing: .15em; }
+.catalog-details-hero h1 { margin: .35rem 0; max-width: 900px; font-size: clamp(2.5rem, 7vw, 5.5rem); line-height: 1; }
+.catalog-details-hero p:last-child { color: #eee; font-size: 1.1rem; }
+
+.catalog-details-content { width: min(1120px, 100%); margin: 0 auto; padding: 52px 7% 96px; box-sizing: border-box; }
+.catalog-data-notice, .catalog-unavailable-section, .catalog-provenance, .catalog-detail-grid article { border: 1px solid rgba(241, 180, 93, .25); border-radius: 16px; background: #151116; }
+.catalog-data-notice, .catalog-unavailable-section, .catalog-provenance { padding: 24px; }
+.catalog-data-notice strong { color: #f1b45d; }
+.catalog-data-notice p, .catalog-unavailable-section p, .catalog-provenance p, .catalog-period { color: #d4ccd5; line-height: 1.7; }
+.catalog-detail-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; margin: 22px 0; }
+.catalog-detail-grid article { padding: 24px; }
+.catalog-detail-grid h2, .catalog-unavailable-section h2, .catalog-provenance h2 { margin-top: 0; }
+.catalog-detail-grid dl { margin: 0; }
+.catalog-detail-grid dl > div { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1.2fr); gap: 18px; padding: 14px 0; border-top: 1px solid rgba(255,255,255,.1); }
+.catalog-detail-grid dt { color: #bfb2c4; }
+.catalog-detail-grid dd { margin: 0; overflow-wrap: anywhere; }
+.catalog-provenance { margin-top: 22px; }
+.catalog-provenance code { color: #f1b45d; }
+
+@media (max-width: 720px) {
+  .catalog-details-hero { height: 440px; }
+  .catalog-detail-grid { grid-template-columns: 1fr; }
+  .catalog-detail-grid dl > div { grid-template-columns: 1fr; gap: 5px; }
+}

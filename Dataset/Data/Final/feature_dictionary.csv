@@ -1,0 +1,17 @@
+feature_name,data_type,source,derived_or_original,calculation_method,missing_value_strategy,recommendation_use
+destination_id,string,master_destinations.csv,original,Stable ID assigned at exact processed-dataset join,Never null for included destinations,"Content, API key"
+name,string,ASI visitor table,original,Original ASI-table display name,Exclude blank names,Content/search
+state,string,BharatVerse processed enrichment,original/unverified,Stored supplied value,Not Available; do not infer,Content filter after verification
+latitude/longitude,decimal,BharatVerse processed enrichment,original/unverified,Stored supplied coordinates,NULL; do not geocode without source,Map/distance after verification
+destination_type,category,ASI CPM PDF when matched,derived,Centrally Protected Monument/Site only on exact PDF-name match,Unverified label otherwise,Content
+heritage_category,category,BharatVerse processed enrichment,original/unverified,Stored supplied category,Not Available,Content only after verification
+visitor_count,integer,asi_monuments_clean.csv,derived,domestic_2019_20 + foreign_2019_20,NULL if either input missing,"Popularity/trend input, not current demand"
+domestic_visitors,integer,asi_monuments_clean.csv,original,2019-20 field,NULL if absent,Aggregate historical popularity
+international_visitors,integer,asi_monuments_clean.csv,original,2019-20 field,NULL if absent,Aggregate historical popularity
+tourism_popularity,category,BharatVerse processed enrichment,original/unverified,Stored historical_popularity label,Not Available,Provisional content feature
+state_tourism_visits,decimal,india_tourism_official_2024.csv,original official,State/UT 2024 aggregate only; never joined as destination visitors,Not Applicable at destination row,Regional context
+arrival_region_distribution,percentage,tourism_arrivals_region.csv,original/unverified,Country/territory regional percentages,Not Applicable at destination row,Inbound-market analysis
+hidden_gem_score,number 0-100,Not Available,not calculated,No score formula approved because required evidence is absent,NULL,Do not use
+women_safety_score,number 0-100,Not Available,not calculated,No verified indicators supplied,NULL,Do not use
+accessibility_score,number 0-100,Not Available,not calculated,No verified indicators supplied,NULL,Do not use
+user interactions,event data,Not collected,future,"Favorites, clicks, saves and completed plans with consent",Not Available,Required for collaborative filtering

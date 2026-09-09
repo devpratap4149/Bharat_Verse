@@ -8,7 +8,7 @@ export default function Signup() {
     e.preventDefault();
 
     // Prototype signup
-    navigate("/login");
+    navigate("/Home");
   };
 
   return (
@@ -113,7 +113,7 @@ export default function Signup() {
         <p className="auth-switch">
           Already have an account?
 
-          <Link to="/login">
+          <Link to="/">
             Login
           </Link>
         </p>
